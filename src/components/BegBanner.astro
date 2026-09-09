@@ -15,7 +15,7 @@ const BTC_HALF_B = BTC.slice(17);
 
     <p class="beg-lede">
       <span class="beg-i" aria-hidden="true">i</span>
-      Dear reader, we are not asking for money. We are asking you to put KiriPedia <span class="beg-nb">in your rectal cavity.</span>
+      <span class="beg-nb">Dear reader, we are not asking for money.</span> <span class="beg-nb">We are asking you to put KiriPedia up your ass.</span>
     </p>
 
     <p class="beg-body">
@@ -82,6 +82,7 @@ const BTC_HALF_B = BTC.slice(17);
   margin: 0 0 18px 0;
 }
 .beg-banner-inner {
+  container-type: inline-size;
   border: 3px solid #b32424;
   background: #fdf2f2;
   padding: 24px 28px 20px 28px;
@@ -98,8 +99,10 @@ const BTC_HALF_B = BTC.slice(17);
 }
 .beg-lede {
   margin: 0 0 14px 0;
-  font-size: 20px;
+  /* Always one line on desktop: size the text to the banner's own width. */
+  font-size: min(20px, 2.05cqi);
   line-height: 1.45;
+  white-space: nowrap;
 }
 .beg-i {
   display: inline-block;
@@ -187,8 +190,12 @@ const BTC_HALF_B = BTC.slice(17);
 .beg-footnote a { color: #3366cc; white-space: nowrap; }
 .beg-footnote a.beg-strong-dismiss { color: #b32424; }
 
+/* Narrow screens: the lede breaks into two lines, one sentence each. */
+@media (max-width: 820px) {
+  .beg-lede { font-size: min(17px, 4.3cqi); white-space: normal; }
+}
+
 @media (max-width: 640px) {
-  .beg-lede { font-size: 17px; }
   .beg-body { font-size: 14px; }
   .beg-actions { grid-template-columns: 1fr; }
   .beg-banner-inner { padding: 18px 16px; }
