@@ -1,0 +1,26 @@
+# Stripped sponsor / ad reads
+
+These paragraphs were detected as sponsor reads and excluded from the main transcript.
+Preserved here for audit; not part of the canon corpus.
+
+[10:56] is worth a lot. And I'll tell you, I go back and check my DeleteMe account with regularity. There are hundreds and hundreds of broker sites, most of which I've never heard of. And when I look on DeleteMe, they tell me where they are in the process of deleting my information from those sites. So, take control of your data and keep your private life private by signing up for DeleteMe. Now at a special discount for our listeners, today get 20% off your
+
+[11:29] DeleteMe plan when you go to joindeleteme.com /jkbr and use promo code jkbr at checkout. The only way to get 20% off is to go to joindeleteme.com /jkbr and enter code jkbr. That's joindeleteme.com /jkbr code jkbr. Make no mistake. We've lost this war.
+
+[12:00] There's no coming back. We either have to admit that we lost and come home or commit a million ground troops and be bogged down in a war that last the next 20 years. According to the administration as of today, the strikes against Iran are on hold. But listen to the discussions that they're having behind closed doors. According to Axios, and if you don't read Axios, I highly recommend that you do, the top US commander in the Middle East, Admiral Brad Cooper, recommended
+
+[12:32] stopping the bombing campaign around the Strait of Hormuz because it had reached the limit of its effectiveness. In other words In other words, we had already hit all the targets worth hitting. You can't just bomb, you know, dirt. It's not going to do anything. He noted we already hit pretty much all the targets worth hitting and that there was essentially, his words, "no point in continuing." At the same time, General Dan Cain, the chairman of the Joint Chiefs of Staff,
+
+[13:03] warned the president and Defense Secretary Pete Hegseth that America's supply of air defense interceptors was becoming a serious concern. Raising questions about our ability to defend US troops and our allies if the war were to escalate. We don't have enough defensive missiles. Then came CNN's reporting. Sources said that General Cain cautioned Secretary Hagseth and President Trump that our munitions were running dangerously low. They warned about the
+
+[13:33] possibility of mass civilian casualties, a regional refugee crisis, Iranian retaliation against Gulf energy and desalination infrastructure, and a much broader regional war. Remember, that's what we talked about on this show just last week. Think about that. Just weeks ago the promise was that Iran would collapse within a month. Now the conversation inside the White House is about running out of missiles. It's about protecting American forces.
+
+[14:03] It's about trying to prevent the conflict from spreading. And this is how US Ambassador to the United Nations Mike Waltz is is responding, trying to spin this reporting in the administration's favor. Listen to this. >> And so I want to ask you about the assets. NBC News is reporting the Pentagon is actually rationing some defense weaponry amid diminishing supplies. Is America backing away from a larger military attack because its military stockpile has been depleted?
+
+[14:34] >> Well, look, we have to take a step back here in that a lot of stockpiles were depleted not only from what we gave Ukraine over the last however many years, four or five years, and the administration inherited the secretary, uh, Secretary Hagseth inherited a depleted situation from not only Ukraine but also the ongoing fight uh, with the Houthis under the Biden administration and a depleted military under the Biden administration. So, they have decided one, uh, they're going to new types of
+
+[15:05] munitions, cheaper munitions, new technologies, but also with these new defense budgets rebuilding our great military. However, >> But you guys are saying they're depleted but you don't acknowledge they're depleted though >> to be I want to be crystal clear. The US military, and I've verified this every which way, has everything that it needs to conduct this campaign as effectively as it needs to be. And I have to tell you, the people that are leaking this nonsense deserve to be in jail.
+
+[15:38] >> Did you catch that? The people leaking this nonsense deserve to be in jail. But we're not depleted. So if the leak is that our missiles are depleted and that's not true then that then there's no crime. There's only a crime if the information is true. So he just said, "No, no, no, we are not depleted. Yes, we were depleted under Biden, but it's all Biden's fault, but now we're not depleted, but the people who said we
+
+[16:09] are depleted, they need to be in jail." Okay, so we are depleted. Make up your mind. Good lord. These are not conversations that you have when your strategy is working. If you know anything about these wars and about how these wars go, presidents do not like to admit to a failed strategy. That's why we're in we were in Afghanistan for 20 years. That's why we were in Iraq for 20 years. And this war is going to get worse before it gets any better. We will have a watch party for the new Lindsey Graham documentary

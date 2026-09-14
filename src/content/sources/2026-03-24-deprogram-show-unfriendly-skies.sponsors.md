@@ -1,0 +1,28 @@
+# Stripped sponsor / ad reads
+
+These paragraphs were detected as sponsor reads and excluded from the main transcript.
+Preserved here for audit; not part of the canon corpus.
+
+[30:37] and baptized in Warren. My second wife is from Oxford, Ohio where Miami of Ohio is. >> Now, that's beautiful. And and my son goes to Miami of Ohio. Now, my daughter goes to University of Cincinnati and my old my eldest son went to Ohio State and my second son to Cleveland State. But, I have to agree with Ted, Cincinnati's the best place in the state. There is so much to do there and when I go to visit my my third son at Oxford, we spend almost all of the of
+
+[31:09] our time in Cincinnati. I sleep in Oxford. I stay in a hotel in Oxford. But, Cincinnati is fun. It's got great restaurants. It's a great sports town. It has terrific art galleries. The art museum is world-class. True. And frankly, Kentucky's pretty cool. >> I was going to say, right across the river is Covington, Kentucky, which is a very cool, hipstery town. Great restaurants, great bars. >> recommended. I like it a lot.
+
+[31:41] Yeah. In fact, last December, we went to the the Steelers um Bengals game. The Steelers kicked the Bengals' asses. Actually set set a scoring record, an all-time scoring record for the AFC North. Anyway, after the game, we walked across the bridge to Kentucky to Dewey's Pizza, which is my one of my favorite pizza places anywhere in the world. And and hung out there for hours and then just took an Uber back to Cincinnati to our car. It's it's awesome down there. Yeah, it's nice. It's a secret. Um yeah. Good
+
+[32:12] Aryan Gordy, thanks for the $4.99. Good morning, men. Thoughts on the new secretary of SNS of Iran. Also, Bahrain Island Kingdom attacked. As this progresses, the more madness. #pardonjohn and #the war. >> Agreed on both of those. Yeah. Yeah, so yeah, do we care this new secretary? Um I don't think that's going to matter a lot. Um I don't either. And the policy I I mean the Iranians think that they can
+
+[32:44] hold out and I don't think they're wrong. Um F U so two bucks, thanks so much. Interesting that we never hear about ICE going into the hoods to apprehend illegal MS-13 gang members like they said they would. So true. >> Good point. >> Aurora, Colorado, where's ICE? Only see them beating up old men and women. Yeah. They're eating the dogs, they're eating the cats. Springfield, Ohio. Go save the dogs and the cats. Yep. Um >> Yep. Dark Truth AI, thanks for the 5 pounds.
+
+[33:16] Hey guys, question for John. Back to Greece. John, are you Arvanitas or your parents were? No. Um funny because we're related to Arvanitis through uh through marriage, but No, you know >> Arvanitas? I always What's Arvanitas? They're freedom fighters from the mainland. Mhm. Mountain mountain dwellers, very proud history. Um My grandmother always told me that we
+
+[33:46] were descended from a very religious man. My my my family name is actually not Kyriacou. Kyriacou means Charles and Kyriacos is Charles and O U on the end is the genitive case. So it means the son of Charles. Oh, cool. I didn't know that. >> because it's because my great great grandfather was arrested for stealing a potato. And I he was hungry, the poor guy. So he got arrested for stealing a potato, he went to court and um they asked him what his name was. He said Mark. Marcos. Marcos what?
+
+[34:18] Marcos tou Kyriacou, Mark the son of Charles. Instead of saying our family name which was Christodoulou, which means the servant of Christ. So the judge wrote Mark Kyriacos and we just never fixed it. So, my grandmother always told me that we were actually descended from a very wealthy man, very religious man from the island of Patmos, who traded his land to the Byzantine Emperor in exchange for the the cave where Saint John received
+
+[34:51] the Book of Revelation. And I told this story to the Archbishop of the Greek Orthodox Church, who actually came to prison to visit me. With his big hat and his gold staff and everything. >> Cool. Very cool. And he said, "You're talking >> Almost as good as Jake Tapper. I know, right? He said, "You're saying your family name is Christodoulou?" And I said, "Yes." He said, "You're talking about Saint Christodoulos." So, to Christodoulou, you are the sons of Saint Christodoulos of Patmos.
+
+[35:23] So, I I I said, "That's an awesome story. I'm hoping it's not apocryphal." So, now that I'm making a couple dollars, I'm going to engage a Greek professional genealogist friend of mine, and I want him to get to the bottom of this. Am I a descendant of of Christodoulos, or am I a descendant of one of the followers of Christodoulos, and that he was the original Christodoulou. We'll see. Genealogy is awesome. You
+
+[35:53] have to let me know what happens. I freaking love it. I don't know if the Greek government does this, but the French government recent I guess in the last like 7 to 10 years, they digitized all of the old church parish records, and you can now get them all online for free, and it allowed me to go back to the 14th century, and found out that I had some dingus Crusaders in my family tree, but kind of cool.
+
+[36:23] They have little in the church records, they have like a cross next to them in there in the in the register. Um Demetrius Sevingas $5 this this follows nicely uh your last question. John, have you ever read the question the book The New Byzantines and if so, what did you think? Ah, The New Byzantines is a book written by Sean Matthews who's a journalist from Middle East Eye. I I've read his stuff over the years. He worked for Al Jazeera and electronic intifada and all kinds of stuff. The New Byzantines is is a book

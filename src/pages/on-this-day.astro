@@ -90,7 +90,7 @@ const calendarPool = events.map((e) => ({
           <ul id="today-callout-list" style="margin:0; padding-left:20px">
             {todayBlockSlice.map((e) => (
               <li style="margin:3px 0">
-                <strong>{e.year}</strong> — <span set:html={mdLite(e.description)} /> {' '}
+                <strong>{e.year}.</strong> <span set:html={mdLite(e.description)} /> {' '}
                 <a href={`/wiki/${e.slug}`} style="font-size:12px; color:var(--color-base--subtle)">[{e.title}]</a>
               </li>
             ))}
@@ -103,7 +103,7 @@ const calendarPool = events.map((e) => ({
       </p>
 
       <p style="font-size:13px; color:var(--color-base--subtle)">
-        New events appear here automatically as articles are added or updated — each event lives in its source article's frontmatter under an <code>events:</code> array. The callout above and the order of entries within each day reshuffle on every page load.
+        New events appear here automatically as articles are added or updated. Each event lives in its source article's frontmatter under an <code>events:</code> array. The callout above and the order of entries within each day reshuffle on every page load.
       </p>
 
       <p style="margin: 16px 0; padding: 8px 12px; background: var(--color-bg-sidebar); border: 1px solid var(--color-border-subtle); font-size: 14px;">
@@ -125,12 +125,12 @@ const calendarPool = events.map((e) => ({
                 <div style={`margin-top:14px; padding:8px 10px; ${isToday ? 'background:#fff3d6; border-left:3px solid #d4a017;' : 'border-left:3px solid var(--color-border-subtle);'}`}>
                   <div style="font-weight:bold; margin-bottom:4px">
                     {dayLabel}
-                    {isToday && <span style="margin-left:8px; font-size:11px; color:#8a6500; font-weight:normal">— TODAY</span>}
+                    {isToday && <span style="margin-left:8px; font-size:11px; color:#8a6500; font-weight:normal">TODAY</span>}
                   </div>
                   <ul style="margin:0; padding-left:20px">
                     {byMonth[m][d].map((e) => (
                       <li style="margin:2px 0">
-                        <strong>{e.year}</strong> — <span set:html={mdLite(e.description)} /> {' '}
+                        <strong>{e.year}.</strong> <span set:html={mdLite(e.description)} /> {' '}
                         <a href={`/wiki/${e.slug}`} style="font-size:12px; color:var(--color-base--subtle)">[{e.title}]</a>
                       </li>
                     ))}
@@ -177,7 +177,7 @@ const calendarPool = events.map((e) => ({
             var html = '';
             for (var m = 0; m < chosen.length; m++) {
               var e = chosen[m];
-              html += '<li style="margin:3px 0"><strong>' + e.year + '</strong> — ' + e.html +
+              html += '<li style="margin:3px 0"><strong>' + e.year + '.</strong> ' + e.html +
                       ' <a href="/wiki/' + e.slug + '" style="font-size:12px; color:var(--color-base--subtle)">[' + e.title + ']</a></li>';
             }
             calloutEl.innerHTML = html;

@@ -1,4 +1,6 @@
+# --- 2026-08-12 morning run: re-uploads / syndications of parents already held; 0 articles cited any ---
 -0u-ln7fhp0
+-J7znGcmKMg
 -NIPmgBHFKg
 -RYBNlTw_44
 -USZZB6q--0
@@ -6,13 +8,17 @@
 -ZzRSvKhSF4
 -bUNyUYdyRk
 -dnBFBNex6Q
+-dnBFBNex6Q	2026-02-05 DeProgram 8-min segment — guest interview with Murtaza Hussain of Drop Site News; no attributable Kiriakou speech
 -el8lkxrIRw
 -nKDvf6ixOM
+-nKDvf6ixOM  # Liberty Vault 2026-05-14 (26m) — reaction breakdown replaying the 2026-04-27 Tucker Carlson interview (Diego Garcia/no-nuclear-programme arc verbatim); remaining ~61% is host monologue. Derivative (rejected 2026-08-07)
+-utK73sjrc4
 -v55tpm11J8
 06-usYETsbo
 06ioehKOpRI
 0CKAts-yzTc
 0D-L8O6cuwI
+0D-L8O6cuwI	2026-01-23 DeProgram 'Club Med Gaza' — re-upload of c0crs_0HgAU, already ingested as 2026-01-23-deprogram-show-with-ted-ra-club-med-gaza-deprogram-with-ted-rall-and-joh (identical cold open verbatim)
 0IOQcOyTdPg
 0JhzkWOsd1s
 0PpseUAcs-I
@@ -34,12 +40,15 @@
 178ec0ZUJPQ
 1GigwWMC8cQ
 1K5-zKDaDV8
+1cR-973R0fc
 1f5J9rouXq8
 1fOKjdGGHQ4
+1faXzlJvh-Y
 1mebPnYD1ko
 1oelJ0xN5AM
 1p_B72s6Ix0
 1pxXzKfr28g
+1xH9YIlzHBo
 1x_jKFIQPec
 2025-11-19-
 26E0z7up8ZI
@@ -119,6 +128,7 @@
 5VuKrdCf-ds
 5Wj4fhopkfc
 5WsOB1Rw3H8
+5YB49wIsj1Y
 5_FDZozJ9zE
 5dfXffvHAnU
 5hNljdwor-U
@@ -140,6 +150,7 @@
 6eLIxrbiMjc
 6fXgEd1zDhA
 6kmi7Tkpf7Q
+6ntnvq7-Qzg
 6oUxZEEK6Es
 6p0OMZlXc8k
 6uJAMwNGkkQ
@@ -162,6 +173,7 @@
 7i5osl-M9do
 7iJ_1LNBBZA
 7kxWFqtO-ZE
+7mkVPXQZS-Q
 7qT2zkChC3w
 7sKiso0Zyko
 7tXTtCHZs0g
@@ -172,6 +184,7 @@
 86XYgK4nal0
 88S43X0oUpE
 8CaxAqpMzhI
+8KiPXx17pPY
 8Op-_i9gOpk
 8QL0KvdzMzk
 8RkpK67B9mQ
@@ -179,6 +192,7 @@
 8T8W518G5IQ
 8cDtW5lP11k
 8dL7BXbrWZ0
+8dL7BXbrWZ0	2026-03-17 Breakpoint — 93.5% shingle, 10/12 runs verbatim in 2025-12-03-honesty-box-24-tough-questions (same rejection the 08-11 run identified)
 8eAFU5NNb20
 8f1JiIPjwSw
 8fcQ4ObATRc
@@ -188,6 +202,7 @@
 8rAxyDZ-xQs
 8yollkHSXr8
 90OJi7ztiTA
+95O6yZUi3Jw
 99-EzDMH7ck
 998ZDCx14Gk
 9BR1fFm9tWA
@@ -195,6 +210,7 @@
 9D7u9ElyjZQ
 9HKfqt9xW0U
 9HnVrPVVHAE
+9HnVrPVVHAE  # Covert Operations Insight 2026-05-11 (39m) — 91.4% shingle match to the 2026-05-04 Cleared Hot #446 episode; MI5/18-agencies/blue-badge arcs verbatim. Re-cut (rejected 2026-08-07)
 9KniExbCdRI
 9Oi61wpeGnA
 9R5FpNBJ8GQ
@@ -204,8 +220,10 @@
 9mIoBeXrB_0
 9sAnupyZSks
 9xiPg2Rq150
+9zNt7SnxegI
 9zzw9113N_s
 A-ab-99PWIM
+A8LixoRzEfM
 AFn6we3pR7U
 AKi7foQzpWo
 AMitchell-B
@@ -214,6 +232,7 @@ Abrams-John
 AcArvkUcCb8
 Accountabil
 Accusations
+Acka-0VUri8
 Administrat
 Aebv40CIsKM
 Afghanistan
@@ -243,6 +262,7 @@ B70zQHKcSxE
 BDrLxPNedMo
 BELOZqAweew
 BFhhPsbO9GU
+BJe2KbdhFDE
 BPqumsjGMoc
 BQ93Fy1jfbA
 BUS9gA518Sg
@@ -270,6 +290,7 @@ CIA-agenten
 CIA-whistle
 CK1t_d0FWLg
 COMPILATION
+CPUA7v3SK3U
 CPl_y9pkCA0
 CQ6AC0Kn8lE
 CRCBTd3s_Ow
@@ -300,6 +321,7 @@ Controversi
 Conventiona
 Conversatio
 Corresponde
+CosG4ghqMLY
 Countdown-9
 Counterprot
 Counterterr
@@ -308,6 +330,7 @@ Criminalize
 Crowdstrike
 CwegyuWY758
 CxG3Nosbl1s
+CxG3Nosbl1s	2026-01-22 'The Honest Talk' credited to Steven Bartlett — first 20 min of the Diary of a CEO episode yUNoJ32eLBc (2026-01-19), verbatim through the closing Iraq-desk line
 Cxd39y6-Aek
 D1Cc1WjM2TU
 D3kxtqefUPg
@@ -322,6 +345,7 @@ DPMM1MuS2Z0
 DZh9W-TWV1o
 Dailymotion
 DavidGornos
+Ddj51-ba1C0
 DeProgramSh
 Declassifie
 DeepFocuswi
@@ -332,6 +356,7 @@ Dg-Jg2wGFnY
 Discussions
 Distraction
 Dnc4DmtWkGw
+Dnc4DmtWkGw  # 2026-08-16 intake: Dialogue Works "highlights" clip cut from the 2025-12-09 full episode already ingested
 Documentary
 Dof3OWLXbRU
 DuZALiYzcmA
@@ -340,6 +365,7 @@ Dv0J6hAiAFE
 Dztm-FpDC0s
 E1Pwp_gCaqs
 E5PBQ90TY-4
+E5PBQ90TY-4  # Doug Bopst 9-min clip 2026-06-03 — 97% shingle match to 2026-05-26 Covert Strategies Revealed / 92% to Doug Bopst 2026-04-23; re-cut (rejected 2026-08-04)
 E6KqNVRRR2k
 E6hUaGpckB0
 E82OrQF9nkY
@@ -350,6 +376,7 @@ EKAQQjFvncY
 EN-VIDS-BAT
 ERXIM8oTMxM
 ET01Uc1sQ1g
+ET_ee3W8NPY
 EYUmojqVGwI
 Ef--cDAHlp8
 EgZ1Cekm8Xw
@@ -357,6 +384,7 @@ Eh-VZDh9eeU
 Ek6ot2JKi2g
 ElMSJDkqSYQ
 Embarrassin
+EnUe3KD9OtY  # National Security Files 2026-08-04 (49m) — 94.9% shingle match to 2026-08-01 "Are You a CIA Plant?" (his own channel, the first Briefing Room Q&A, already cited by 31 articles); identical cold open, 7755 vs 7760 words. Third-party re-upload (rejected 2026-08-08)
 Es2hDUTNsfg
 Et93Sc4bQWc
 Evangelical
@@ -387,6 +415,7 @@ Fight2BeFit
 Firedoglake
 Fjk7owEEWRc
 FlVsyxDlkc8
+FlVsyxDlkc8  # 2026-08-16 intake: "Podcast Digest" — AI-narrated 10-takeaways recap of a Diary of a CEO episode; Kiriakou never speaks, paraphrase not canon
 FlyingOverT
 Fn-yCYLhjo0
 FnjueoUAMFU
@@ -417,6 +446,7 @@ Governments
 GyK2WK7_A7o
 GygbALerANE
 GzJvcgAOf_c
+GzJvcgAOf_c  # clip re-cut of 99-EzDMH7ck (Third Way 2026-06-16)
 GzSIp9kONVA
 H-UjcZkxcU4
 H482lhEZ9_c
@@ -509,6 +539,7 @@ K5moh1ndEJY
 K7T0Br4Zhc0
 K8NBiggPaTY
 K9ZFqyKDtks
+KAB0I2HIWzI
 KBOUX433BJE
 KIRIAKOU-OP
 KIRIAKOU-UN
@@ -532,12 +563,15 @@ KqfGXMDtams
 L1DYA1XSB44
 LJpneCf42_s
 LNzP0NIXARo
+LRh9e-V0rfA  # clip re-upload of FR49AAOlitk Yemen segment (2026-07-27 full episode)
 LThb4bBpGUw
 LU-tNToDV-Y
 LZIMbHr2GNk
+LZcMRAW_NEw
 LcOxO8F6Arg
 LeakSourceN
 Lfbf9gSVdJM
+LiE24FEvx88
 Libertarian
 LjBCKQYdB3U
 LlkzhC5VcfA
@@ -550,6 +584,7 @@ M0dum00g0fs
 M0gBPp6agJI
 M4Eav5a1SNE
 M8mxxyKKCyI
+MDNWVWp2JZg
 MHi2HpBQ8nE
 MHwzL-N793Q
 MK5zeJV8aqc
@@ -584,14 +619,17 @@ NNpbAFA9IvI
 NOqRvWc5_AA
 NP8E6veMn68
 NTxzYHQiY5c
+NVZytrO9S8U
 NWlx41Hqf5A
 NZnYzTCc9RU
 Narcissists
 Nationalpos
 Ndpaua_S5lg
 Nfa4sEDOgmQ
+Nfa4sEDOgmQ  # 2026-08-16 intake: "Podcast Summaries" — AI-narrated summary of the same Diary of a CEO episode; Kiriakou never speaks, paraphrase not canon
 NiAb3oiaZ58
 NjpxB9P5WbE
+NnByUJPK42Q
 NnK4dTFJaE0
 NxX6zTLpqQE
 O5VeZvqUPys
@@ -611,6 +649,7 @@ Ohu27f0YSgc
 OjWI9JFwnkM
 OjWJyN0gmqo
 OkZSdao60EI
+OnIZLPJwH0g
 OrAf8gK44S4
 OtonZWE2JWA
 OtvG1MS2pAQ
@@ -624,6 +663,7 @@ P9miDzcUT9U
 PA2Sh1zpgfU
 PBJ0LM-ArHw
 PCAYwyiEbY8
+PJmggTeA9kE
 PKficzm5-8g
 PUiH7Gw50-4
 PVIiolJAyOI
@@ -634,6 +674,7 @@ Pcfwx50zl40
 Pentapostag
 Persecution
 PfVLIxhuDHc
+PlVHOkspl68
 Po2O3DNAvm0
 PodSummariz
 Politicians
@@ -655,11 +696,13 @@ QCD27520749
 QCD38910596
 QCD68000250
 QFEtrfKUmNs
+QFMwHlR63xk
 QIBGfnBgdNA
 QN1BVQfN404
 QOcImjrlc-E
 QRvbkLfSFgw
 QSHXNtBrjC0
+QTINgVt2cw0
 QgJLnojqKY8
 QiWoQ0Y86DE
 QkcNo1XF92c
@@ -679,6 +722,7 @@ RHAPSODYVOI
 RHOuaJ32jic
 RJq6inqowW4
 RPRxuwCA46k
+RPRxuwCA46k  # Covert Operations Insight 2026-05-08 (40m) — 76.4% shingle match to the 2026-05-04 Cleared Hot #446 episode; Gus Avrakotos/Dr. Dirty/OCA arcs verbatim, Cleared Hot cold-open audio still on the tape. Re-cut (rejected 2026-08-07)
 RSV15973249
 RSV21523567
 RXjcBoplc_c
@@ -698,10 +742,12 @@ RmPpOps1yeI
 Rq_g3ox_VDU
 RtLO5yZ6EhU
 RypVxybJzHo
+RzkZpg3HB50
 S-gLB2NWAHg
 S3aYb4j6XAc
 S7Ep15MWzdg
 S9gGJeXpPBo
+S9gGJeXpPBo  # Adoteq 'deep dive' — two synthetic hosts discussing a Kiriakou interview; he never speaks. Derivative commentary, excluded under single-source canon (rejected 2026-08-02, recorded 2026-08-03)
 SBCSSQ0bpBA
 SEzC9xFLWAo
 SHHWD459974
@@ -712,6 +758,7 @@ SYrXDt1gn_I
 SZHU4o7MYuw
 SaltCubeAna
 SassMouthDa
+SbEng6UYapY  # 2026-08-16 intake: Julian Dorey x Zach Foust — Kiriakou is discussed by others, never speaks; title-bait, zero canon material
 SbOKQqFcexU
 Second-Time
 Sh5MxKJ1cWY
@@ -732,6 +779,7 @@ TGvgUl7geeM
 TPC72101097
 TPPP9023753
 TV-segments
+TXE-5Ou0UKE
 TZqADzuu73g
 Tas6bgOQfD4
 Technocrati
@@ -740,8 +788,10 @@ Terrorpedia
 Tes2ZsAobxU
 TheCyNaMoOn
 Tk9q6OCiFXY
+TkRAo0eDnK0
 TqRitpA92Ws
 Trdw3Ykm53Y
+Trdw3Ykm53Y  # ANI News 2026-05-03 (28m) — 90.2% shingle match to 2025-10-24 "Pakistan's Nuclear Secrets, CIA Lies"; Saudi-Pakistan mutual defence pact, A.Q. Khan and Musharraf arcs all verbatim in the parent. Re-cut filed under a wrong date (rejected 2026-08-08)
 Trump-Harri
 TruthOverCo
 TtFXCGDZKjw
@@ -761,6 +811,7 @@ US-Sicherhe
 UV4Cd-9lJA8
 UXfZPr-fRB8
 UYXk2Ze7AIo
+UYXk2Ze7AIo  # re-upload of vb8nK12TbnM / PBD #783 clip
 UaGsDFC7E3c
 UhBRpWh1S38
 Ukrainekrie
@@ -790,12 +841,15 @@ VoQxtN4dWog
 VpVLqOkBgXo
 VrZKxUgclcA
 VsZukq8WxYQ
+VsZukq8WxYQ	2026-03-12 Nietzsche upload — 2013 sentencing coverage re-posted with a 2026 date; 86.4% shingle / 10-12 runs verbatim in 2015-01-09-terrorpedia aggregator, 71.7% against 2013-01-30-democracy-now-sentenced-to-prison
 VtRxlxHNVlQ
 VttsDkIRbYY
+W3WT-SfO0oI
 W6OZ4ClS_uQ
 WABC2521462
 WABC9998799
 WEKxuNFf308
+WF8NOMGWI2o
 WHISTLEBLOW
 WMVWG233YoQ
 WPkvDeGGbX8
@@ -824,6 +878,7 @@ WtmKVHRei9s
 X4OydjOsLiQ
 X7B-IQ4MXFM
 XE2Xvm4fceg
+XGaVeJrPau8
 XIyrvsi1nTw
 XJPxC4mXVkM
 XKU0XvJl21g
@@ -835,13 +890,16 @@ XggTxvLDey8
 XhjFW9ey15U
 XwBMKwt14IU
 XxURIn9wmL0
+Xxhv0InkvK0
 Xzt8oI5gyDM
 Y-52aXpKbis
 Y-T1JZ3Tj7s
 Y1E8EypwzPA
+Y6VSjyqJfzY
 Y76fJsFNz3o
 Y7woK8aEmI4
 Y881Ok3xoYA
+Y8MidiO_Jq8
 YBKZeGRQMqs
 YEnVwfMlgWQ
 YGxUJqezPw8
@@ -851,6 +909,7 @@ YQavsNesHxA
 Y_C92BT8Fzk
 YcCiuNaCRKA
 YcTHv1zLD7M
+YdcUTo7BGVc
 YeBIRH9VlBQ
 YfzSoVAuSwY
 YiPnxJE7vtk
@@ -865,9 +924,12 @@ ZAUTVOgCVzA
 ZKTfNz1JIoE
 ZMlLBUqjmTg
 ZO0GpNURRRk
+ZPT8hksdn2w
+ZVJVEy0Zu80
 ZZAHW6u2B2s
 Z_NS5LQuYl0
 Z_cYfNCsUl4
+ZbjpYJpzmms
 ZfEX7MK0Rrw
 ZhztQM2tuP8
 ZmaIRlBhsS8
@@ -885,6 +947,7 @@ _H0D8LbhHWM
 _HpJNGTRMac
 _JeTlw4Zy3o
 _RqBVs-P6WY
+_T7J-jzEo9Q
 _YRyGXYvkaI
 _YakzlNZjAQ
 _cAlUaDXSuI
@@ -895,10 +958,15 @@ _oVLXe7WG8Q
 _uVF7K2KuZw
 _zGMFZ1Kgww
 a-zcLxpie88
+a-zcLxpie88  # "John Kiriakou Podcast" 2026-05-30 (35m) — 93.7% five-word-shingle match to the 2026-05-08 Jay Dyer episode (1h46m); re-cut of that interview (rejected 2026-08-05)
 a2NYakihrDg
+a2NYakihrDg  # Revolutionary Change 2026-04-10 (18m) — 96.9% word-level identity with the 2020-11-24 Revolutionary Change episode already held (itself a cut of the 54m 2020-11-23 parent); the broken-glass death, the spinal-cancer compassionate-release refusal and the Greek hedge-fund arc are verbatim. Re-upload of a 2020 recording (rejected 2026-08-10)
 a39vW8EYgpM
+a9b1yqsUsx8
 aHJuNGwf1C0
+aHJuNGwf1C0	2026-03-16 Breakpoint — 92.6% shingle, 10/12 runs verbatim in 2026-01-23-the-honest-talk-the-honest-talk
 aKzlrQ0oCWg
+aKzlrQ0oCWg  # Carlos Watson 2026-05-02 (10m) — 92.8% shingle match to the 2026-04-27 Carlos Watson full episode; trunk-line / "two-time loser" arc verbatim in the parent. Clip (rejected 2026-08-08)
 aL2bZfMJnLE
 aMBuTzzYChY
 aMGfqMyZz5s
@@ -909,11 +977,13 @@ aYK16WJ1WsU
 aYzvjRksz9Q
 aZxNTiekLGU
 abO9JYPe2Ps
+acXDhfZkFXo
 adp-UPxtBMs
 ageQWTWtwmw
 ahlUdUoayOc
 ajGvcmcdVJ4
 ajooPBe19Fc
+ak-KFGimFkA
 already-ing
 am_eISh21Qo
 amconrightn
@@ -924,7 +994,9 @@ assassinati
 aterboardin
 atthemicsho
 attribution
+audef41a410e	2026-06-16 'Joannes Wyckmans Podcast' — AI-narrated deep-dive recap discussing Kiriakou in third person; he never speaks, fails single-source canon
 aulPxaV0M2g
+aulPxaV0M2g  # Due Dissidence 2026-04-06 (12m) — 83.8% shingle match to the same-day 194-minute Due Dissidence episode already held; reaction cut replaying a Kiriakou tweet and a Megyn Kelly clip, with "Please help us bomb Iran", the 1986 six-months line and the two NIEs all verified verbatim in that parent. Clip (rejected 2026-08-10)
 austinandma
 authenticit
 auto-reject
@@ -939,11 +1011,14 @@ b7Uq2aYrR5w
 b8ZFmooE2UQ
 b8jkq4fDvu0
 bBP3twjYYqM
+bEMsJi2P6PA
 bKqij1hW2dQ
 bKwshdYSvFU
 bKx-CsyO_zI
 bPtOc_AqogU
+bPtOc_AqogU  # "Dark Secrets Behind the Torture Program" 2026-05-23 Covert Operations Insight (42m) — 93.4% shingle match to the 2026-05-05 Morgan Nelson episode; verbatim fragments confirmed. Re-upload (rejected 2026-08-06)
 bQCGkMcYbtI
+bQCGkMcYbtI  # Liberty Vault 2026-05-28 — reaction breakdown replaying clips of the 2026-04-27 Tucker Carlson interview; every Kiriakou passage verified present in that source, rest is host commentary. Derivative, excluded under single-source canon (rejected 2026-08-05)
 bYvYFSe3C5I
 baVyOYJDPb0
 back-catalo
@@ -955,6 +1030,7 @@ bqWcgBb6GDM
 breakitdown
 bsnqAS12bO4
 bvGjGpacN2I
+bx9sMchEMOs
 c0crs_0HgAU
 c5B-fzDvyO8
 cEa_k3SAguU
@@ -967,12 +1043,14 @@ cPfqguIwcqU
 cQNedgdX0oM
 cTheDVtzBWQ
 cXflhWX1LZw
+cXflhWX1LZw  # "John Kiriakou Podcast" 2026-05-22 (42m) — 82-86% shingle match to the 2023-08-09/08-24 London Real episode (itself held twice); 2023 recording re-posted. Re-upload (rejected 2026-08-06)
 c_0g3SxGsqQ
 ca-aG5L_olI
 capitalcoas
 caption-tra
 ccqYPH1Np0U
 cdCAKYYH3Yo
+ch90uEZSNGY
 chLs_xU1f28
 chMYCZPpkI0
 chQTXijz4rc
@@ -994,6 +1072,7 @@ cv7kElw5DH0
 cxE_LYseT2M
 d0VkEMouzBE
 d1mAmKfGNVU
+d1mAmKfGNVU  # Liberty Vault 2026-05-10 (24m) — reaction breakdown replaying the 2026-04-27 Tucker Carlson interview (Butler/Joe Kent/Charlie Kirk arc verbatim at 1:05:30); remaining ~69% is host monologue. Derivative (rejected 2026-08-07)
 d2cKxy1ZQf0
 d2vVEcgthFc
 d82Vejn9a30
@@ -1005,6 +1084,7 @@ dAmdo2MzzhE
 dC1hlwPM444
 dG7JdPXneCc
 dHIRaOP5SAw
+dM880r4U9Y4
 dO5QB3MDotg
 dOzonepgGBk
 dS5IIYFFKli
@@ -1025,6 +1105,7 @@ disproporti
 disqualifie
 disruptionl
 djGUiuyziYE
+dlbiZLz2ZJQ
 documentary
 double-uplo
 dqaYa2ILkWw
@@ -1082,9 +1163,11 @@ fogradiosho
 fortressona
 fqwItTzkhS8
 freedomtalk
+ftznt3LxoEI
 fu2gzoecHVs
 fw_RQc2tpvY
 fy86vzToyDI
+fy86vzToyDI  # Liberty Vault 2026-05-01 (25m) — reaction breakdown replaying the 2026-04-27 Tucker Carlson interview; every Kiriakou passage verified verbatim in that source (Bob Dole bumper sticker, 1992 morning-meeting vote, Dershowitz-on-Ted-Cruz, the senator/intelligence-committee dispute), remaining ~66% is host monologue and an ad read. Derivative (rejected 2026-08-08)
 g2htCOU-tTw
 gA-SHZKjKiU
 gCNk9IqON4k
@@ -1101,6 +1184,7 @@ ghvmiM4DjM0
 gk_q-mhCl2o
 gkpK8NQFCx8
 gpkfBmA2oH4
+grWxsQp1l3U
 grlBxKDqYrQ
 guXefViRMCk
 gx18nFdU5jo
@@ -1116,12 +1200,14 @@ hand-verifi
 hand-vetted
 hbFXhHbMOHQ
 hbtLQ9uVdUU
+hcWe071ibjY
 hdfJ51hKM9E
 his-own-sho
 history-tol
 hn5BdOxEGiY
 hntCXex4ZlU
 hohHB8bGCxM
+https://anchor.fm/s/1bea3808/podcast/play/116822825/ # What Should We Call It 2026-03-12 - Kiriakou NOT present, hosts merely discuss him
 hu8QgZGyOIQ
 huJZybGG98I
 hv5cPy5ElrU
@@ -1135,6 +1221,7 @@ iDMtuwhkBAY
 iFNtxL2QPsE
 iJf88y5NwJw
 iLYqlR0kP9w
+iMC_nNUkkT4
 iN56bHhDu5Q
 i_B-mqXjdME
 i_Jx9h97-ig
@@ -1152,15 +1239,18 @@ is0yrElNSFA
 israellobby
 itsrainmaki
 iyeT6AAK4lA
+j09ZaBP3Bu8
 j4cxV2fz6ks
 j89s1BAvK0o
 jGRa3o7XZ4c
 jIAIhvFsSog
 jNGeaQ5ZA28
+jOzI8j-dHKg  # 2026-08-16 intake: "Best of Danny Jones" re-cut of the 2024-08-12 Kiriakou/Bustamante debate (ElMSJDkqSYQ) — already ingested
 jTh_0DYD5TU
 jVwIX4JlYro
 jXdzxa-Qibc
 jackmanradi
+jcg5aO_H9OU
 jmJ__Hd1T0c
 john-kiriak
 johnkiriako
@@ -1171,6 +1261,7 @@ julian-dore
 jwO3anoP4ho
 jy8EslNPwKU
 k1RTHWlQT1k
+k2u1EKaGUZg
 k3tKmaylRrY
 kE1X4X9Eezc
 kEL2CKeX6wA
@@ -1191,15 +1282,19 @@ kbsiT-LgFJg
 kcHBXm1aWIM
 kjO7saoQjNk
 kj_agEYf1yY
+kj_agEYf1yY	2026-01-21 Unfiltered With S.A.M. 7-min clip — verbatim excerpt of gbvuY-IqXvQ (2026-01-09), already ingested
 kl16yvav2bs
 kopDfgn8Bas
 krYI54XbO6I
+krYI54XbO6I  # "Dollar Stream" 2026-06-05 — reaction stream; two hosts riff over internet clips and mock a Kiriakou torture clip. Kiriakou never speaks. Derivative commentary, excluded under single-source canon (rejected 2026-08-04)
 kyFexPbZlzk
 l-xIjigjfJo
 l4RclffUoYc
+l6hUktZNut8
 l8G7u7u--ds
 lBBVyHHIWwU
 lBfXxjFH4lw
+lBfXxjFH4lw  # clip re-cut of Fn-yCYLhjo0 (Doug Bopst 2026-04-23)
 lDOspNoh9IA
 lFahSqT2Li0
 lL3hLxeEA1E
@@ -1208,12 +1303,14 @@ lOB_pRBST6I
 lQYGh8EnFag
 lS9LJ-nQRZY
 lSX5xFPy53c
+lSX5xFPy53c	2026-03-04 DeProgram — Kiriakou absent ('John has some other stuff to do'); Ted Rall + Robbie West + guest Achilles Larrea only
 l_Lj7bhzRIs
 l_jTiDeC0Iw
 lbTkSFweS5g
 lcP-H7B4FcM
 lffVtXOhGXY
 lg1k-9p0zT8
+lg1k-9p0zT8  # 2026-08-16 intake: duplicate upload of DeProgram 2026-01-13 already ingested as rdzab0KqbA8 (same date/title/duration); writing against the ingested slug instead
 lhX9bjdYaQU
 lhtyX01IUaE
 liZKNcfothc
@@ -1221,6 +1318,7 @@ llAX3SdqsL0
 llR-N2Ur9IQ
 llTRt_gBHQ8
 lmh18pD_RKM
+lmh18pD_RKM  # 2026-08-16 intake: Jackson Hinkle monologue re-hosting a clip from the Mario Nawfal 2025-12-10 interview already ingested and already mined into venezuelan-heavy-crude-refining
 loud-clear-
 lower-canon
 lsONLZloNnY
@@ -1245,6 +1343,7 @@ mXpQfO_oTsQ
 machine-gen
 macronchees
 mcKqKRUL0UE
+mcdQYoQW8e4
 mfsdrNvEuL8
 mhAffv0LdfE
 michaelkjac
@@ -1259,6 +1358,7 @@ mypriceismy
 n-6kQ-PmRgM
 n-kiriakou-
 n2LOvRIy-CM
+n2LOvRIy-CM  # Hang Out with Sean Hannity 2026-04-17 (9m) — 78.0% shingle match to the 2026-04-16 Hannity full episode (1:36:00, already held); Truck / murder-for-hire op, the Italians and Mark Lanza, and the enhanced-interrogation nuance all verbatim in the parent. Clip (rejected 2026-08-10)
 n8iDa-IGDKk
 nC0JNpqX_HY
 nJ6yjjr1ogA
@@ -1302,6 +1402,7 @@ oiAjjsIi4SU
 okH2cJr7qiA
 okR1rm1B_qY
 ol3UPWnqNAA
+ol3UPWnqNAA  # Carlos Watson 2026-05-02 (10m) — 90.7% shingle match to the 2026-04-27 Carlos Watson full episode; post-prison PTSD / Mrs. Mike Pompeo arc verbatim in the parent. Clip (rejected 2026-08-08)
 olK01DwhCkc
 omnycontent
 omqKumNTt74
@@ -1316,9 +1417,12 @@ p8Ar9pc_twk
 p8QQGwrN5Ag
 pFotqzActGI
 pHGVgw3MTbc
+pHGVgw3MTbc  # "Mossad's Deadly Tactic in Iran" 2026-06-06 — 86% five-word-shingle match to the 2025-06-30 Jamarl Thomas episode; verbatim re-cut (rejected 2026-08-04)
 pI2RLIEnw8g
 pIqyrohShDg
+pKxLcpxEdHE  # "They're Hiding Israel in Every File" 2026-05-17 Covert Operations Insight (50m) — 90.9% shingle match to the 2026-04-27 Carlos Watson episode (repeat-story baseline for distinct episodes is ~43%). Re-upload (rejected 2026-08-06)
 pPpNPJZiTMw
+pPpNPJZiTMw	2026-03-17 The Inquiry — 91.2% shingle, 10/12 12-word runs verbatim in 2026-03-01-the-inquiry-torture-assassinations-epstein
 pancake1110
 pbeZI7ZO5lQ
 pdJl4buyoUA
@@ -1327,6 +1431,7 @@ pfAHBFj-pl0
 pfFvuCYmaXs
 pjuGkLG7ByY
 pqUEWuXM2Y4
+pqUEWuXM2Y4  # "The REAL Risk of Israel Using Nukes" 2026-05-26 (33m) — 94.8% shingle match to the 2026-03-24 Deep Focus Show episode; same recording re-posted (rejected 2026-08-05)
 pqZj-EtpO1E
 progressive
 projectcens
@@ -1374,6 +1479,7 @@ s41zksLari8
 s5il3YzcIZ0
 s5qHlmDHnDE
 s6dLqOPSwu0
+s6dLqOPSwu0  # Fox News 2026-04-16 (1.1m) — programming-note teaser for the Hannity episode already held; the only speech in it is Hannity's ("I think I have been approached"), no Kiriakou content at all. Host-side promo (rejected 2026-08-10)
 s8zmuN2Gdbc
 s9qRSlRIqFM
 sDiHovChjWE
@@ -1402,6 +1508,7 @@ stKng39CllU
 survivingse
 svND9fNBiAw
 swDJSeo-Et0
+t1KKn_2U_Vg
 t2-iLx04HOM
 t3FxH39oYsA
 t5mfW5niTiI
@@ -1431,6 +1538,7 @@ thefreethou
 theincredib
 thispastwee
 timotomluck
+tjcwiMRDy9k
 tr1NKUPsP-g
 transcribab
 transcripte
@@ -1445,6 +1553,7 @@ u86oh_qPhVY
 u8f1Ck4JyVo
 uHkYndrVisc
 uLD02oLoGHU
+uLMBpWK0fG8
 uRmZX8Psw8A
 uTIi8cou10U
 uTpvKzNoaa4
@@ -1457,6 +1566,7 @@ ulc3YGqjKvk
 unavailable
 uqN6mNL-dfI
 uwO2MVhbUow
+uxHODlAhiBk
 uz06eViSJdo
 v1tRqZKo4q0
 v2GbWGoIW6w
@@ -1472,15 +1582,20 @@ vb8nK12TbnM
 vcgJXirykZE
 vhyQRc1vzkg
 vkJ3Eu78RUg
+vkKtqHV6JvE
 vmDn8YzxVeQ
 vmY7r4ggP6o
 vp5ear1WulM
 vwweQtSlWCs
 vzP9zXoNk8s
+wD9jQeh8JO8
+wGucFQykKq8
 wHdlMgpobjk
 wKp5G7KLWNw
 wM_qsmuiY5I
+wM_qsmuiY5I	2026-03-09 DeProgram 'Ecocide in Iran' — Kiriakou absent (travelling, never joined); Ted Rall + producer Robbie West only, no Kiriakou speech in 59 min
 wNWGRrcxa2s
+wOZ5zrZN7r8
 wOh8CtXSkck
 wSDydqdERPQ
 wSE9wdb21sA
@@ -1496,6 +1611,7 @@ whistleblow
 wjuc46j6TsM
 wlJO1uL1CsE
 wpTnt74kYus
+wupvfdWIvH0
 wvk1YaH7xW8
 wwwMOXNEWSc
 wypS_uplYDQ
@@ -1513,6 +1629,7 @@ xYx6oycyKww
 xcrldA-Golc
 xeL0QGTHOho
 xjH_6z96-Uo
+xk7IWpbbMcU
 xkkqwGDDbE0
 xmsftuzjjyk
 xrjng6Ccz6k
@@ -1530,12 +1647,15 @@ y88pl9VpEOw
 y8RACzGqLRI
 y939VG16MCY
 yDLqasC7RPw
+yJVUqlEZ2zQ
 yKvpvWexDzw
+yKvpvWexDzw  # 2026-05-20 Doug Bopst 12min — clip of Fn-yCYLhjo0 (2026-04-23 full ep), verbatim overlap
 yL8rVbWniW4
 yNfP4m7ZsMw
 yPRKgWY0Cgo
 yUNoJ32eLBc
 yVFuxHFq16s
+yVFuxHFq16s  # London Real "Ukraine War: The Endgame Revealed" 2026-05-26 — 9-minute clip, ~5 min of Kiriakou then 4 min of ad reads; content is the 2023 London Real material already held (Farragut Square, the muddling-through endgame). Re-cut (rejected 2026-08-05)
 yXDhk3eIZZA
 yYF3w6hYXw8
 yaoTdbGbU1c
@@ -1546,6 +1666,7 @@ yhyd_5LD-MI
 ynMg7-QfL10
 yth6Awo6D3s
 z0loNZnAqyk
+z0loNZnAqyk  # Carlos Watson 2026-05-02 (10m) — 93.8% shingle match to the 2026-04-27 Carlos Watson full episode; Oval Office / Ahmed Khatib / George Habash arc verbatim in the parent. Clip (rejected 2026-08-08)
 zABTCtNuOFc
 zBpAlMKDbaY
 zFxVeUe2CVo
@@ -1559,63 +1680,3 @@ zroa2RWlUkA
 zssCchYDO5A
 ztdzNcmU8FU
 zzpHYbWyQWc
-LRh9e-V0rfA  # clip re-upload of FR49AAOlitk Yemen segment (2026-07-27 full episode)
-lBfXxjFH4lw  # clip re-cut of Fn-yCYLhjo0 (Doug Bopst 2026-04-23)
-GzJvcgAOf_c  # clip re-cut of 99-EzDMH7ck (Third Way 2026-06-16)
-UYXk2Ze7AIo  # re-upload of vb8nK12TbnM / PBD #783 clip
-7mkVPXQZS-Q
-ZVJVEy0Zu80
-wOZ5zrZN7r8
-vkKtqHV6JvE
-NnByUJPK42Q
-S9gGJeXpPBo  # Adoteq 'deep dive' — two synthetic hosts discussing a Kiriakou interview; he never speaks. Derivative commentary, excluded under single-source canon (rejected 2026-08-02, recorded 2026-08-03)
-pHGVgw3MTbc  # "Mossad's Deadly Tactic in Iran" 2026-06-06 — 86% five-word-shingle match to the 2025-06-30 Jamarl Thomas episode; verbatim re-cut (rejected 2026-08-04)
-E5PBQ90TY-4  # Doug Bopst 9-min clip 2026-06-03 — 97% shingle match to 2026-05-26 Covert Strategies Revealed / 92% to Doug Bopst 2026-04-23; re-cut (rejected 2026-08-04)
-krYI54XbO6I  # "Dollar Stream" 2026-06-05 — reaction stream; two hosts riff over internet clips and mock a Kiriakou torture clip. Kiriakou never speaks. Derivative commentary, excluded under single-source canon (rejected 2026-08-04)
-a-zcLxpie88  # "John Kiriakou Podcast" 2026-05-30 (35m) — 93.7% five-word-shingle match to the 2026-05-08 Jay Dyer episode (1h46m); re-cut of that interview (rejected 2026-08-05)
-pqUEWuXM2Y4  # "The REAL Risk of Israel Using Nukes" 2026-05-26 (33m) — 94.8% shingle match to the 2026-03-24 Deep Focus Show episode; same recording re-posted (rejected 2026-08-05)
-yVFuxHFq16s  # London Real "Ukraine War: The Endgame Revealed" 2026-05-26 — 9-minute clip, ~5 min of Kiriakou then 4 min of ad reads; content is the 2023 London Real material already held (Farragut Square, the muddling-through endgame). Re-cut (rejected 2026-08-05)
-bQCGkMcYbtI  # Liberty Vault 2026-05-28 — reaction breakdown replaying clips of the 2026-04-27 Tucker Carlson interview; every Kiriakou passage verified present in that source, rest is host commentary. Derivative, excluded under single-source canon (rejected 2026-08-05)
-WF8NOMGWI2o
-yKvpvWexDzw  # 2026-05-20 Doug Bopst 12min — clip of Fn-yCYLhjo0 (2026-04-23 full ep), verbatim overlap
-bPtOc_AqogU  # "Dark Secrets Behind the Torture Program" 2026-05-23 Covert Operations Insight (42m) — 93.4% shingle match to the 2026-05-05 Morgan Nelson episode; verbatim fragments confirmed. Re-upload (rejected 2026-08-06)
-cXflhWX1LZw  # "John Kiriakou Podcast" 2026-05-22 (42m) — 82-86% shingle match to the 2023-08-09/08-24 London Real episode (itself held twice); 2023 recording re-posted. Re-upload (rejected 2026-08-06)
-pKxLcpxEdHE  # "They're Hiding Israel in Every File" 2026-05-17 Covert Operations Insight (50m) — 90.9% shingle match to the 2026-04-27 Carlos Watson episode (repeat-story baseline for distinct episodes is ~43%). Re-upload (rejected 2026-08-06)
-jcg5aO_H9OU
-RPRxuwCA46k  # Covert Operations Insight 2026-05-08 (40m) — 76.4% shingle match to the 2026-05-04 Cleared Hot #446 episode; Gus Avrakotos/Dr. Dirty/OCA arcs verbatim, Cleared Hot cold-open audio still on the tape. Re-cut (rejected 2026-08-07)
-9HnVrPVVHAE  # Covert Operations Insight 2026-05-11 (39m) — 91.4% shingle match to the 2026-05-04 Cleared Hot #446 episode; MI5/18-agencies/blue-badge arcs verbatim. Re-cut (rejected 2026-08-07)
-d1mAmKfGNVU  # Liberty Vault 2026-05-10 (24m) — reaction breakdown replaying the 2026-04-27 Tucker Carlson interview (Butler/Joe Kent/Charlie Kirk arc verbatim at 1:05:30); remaining ~69% is host monologue. Derivative (rejected 2026-08-07)
--nKDvf6ixOM  # Liberty Vault 2026-05-14 (26m) — reaction breakdown replaying the 2026-04-27 Tucker Carlson interview (Diego Garcia/no-nuclear-programme arc verbatim); remaining ~61% is host monologue. Derivative (rejected 2026-08-07)
-https://anchor.fm/s/1bea3808/podcast/play/116822825/ # What Should We Call It 2026-03-12 - Kiriakou NOT present, hosts merely discuss him
-EnUe3KD9OtY  # National Security Files 2026-08-04 (49m) — 94.9% shingle match to 2026-08-01 "Are You a CIA Plant?" (his own channel, the first Briefing Room Q&A, already cited by 31 articles); identical cold open, 7755 vs 7760 words. Third-party re-upload (rejected 2026-08-08)
-Trdw3Ykm53Y  # ANI News 2026-05-03 (28m) — 90.2% shingle match to 2025-10-24 "Pakistan's Nuclear Secrets, CIA Lies"; Saudi-Pakistan mutual defence pact, A.Q. Khan and Musharraf arcs all verbatim in the parent. Re-cut filed under a wrong date (rejected 2026-08-08)
-aKzlrQ0oCWg  # Carlos Watson 2026-05-02 (10m) — 92.8% shingle match to the 2026-04-27 Carlos Watson full episode; trunk-line / "two-time loser" arc verbatim in the parent. Clip (rejected 2026-08-08)
-ol3UPWnqNAA  # Carlos Watson 2026-05-02 (10m) — 90.7% shingle match to the 2026-04-27 Carlos Watson full episode; post-prison PTSD / Mrs. Mike Pompeo arc verbatim in the parent. Clip (rejected 2026-08-08)
-z0loNZnAqyk  # Carlos Watson 2026-05-02 (10m) — 93.8% shingle match to the 2026-04-27 Carlos Watson full episode; Oval Office / Ahmed Khatib / George Habash arc verbatim in the parent. Clip (rejected 2026-08-08)
-fy86vzToyDI  # Liberty Vault 2026-05-01 (25m) — reaction breakdown replaying the 2026-04-27 Tucker Carlson interview; every Kiriakou passage verified verbatim in that source (Bob Dole bumper sticker, 1992 morning-meeting vote, Dershowitz-on-Ted-Cruz, the senator/intelligence-committee dispute), remaining ~66% is host monologue and an ad read. Derivative (rejected 2026-08-08)
-Qpd5EXPydaA
-n8iDa-IGDKk
-n2LOvRIy-CM  # Hang Out with Sean Hannity 2026-04-17 (9m) — 78.0% shingle match to the 2026-04-16 Hannity full episode (1:36:00, already held); Truck / murder-for-hire op, the Italians and Mark Lanza, and the enhanced-interrogation nuance all verbatim in the parent. Clip (rejected 2026-08-10)
-s6dLqOPSwu0  # Fox News 2026-04-16 (1.1m) — programming-note teaser for the Hannity episode already held; the only speech in it is Hannity's ("I think I have been approached"), no Kiriakou content at all. Host-side promo (rejected 2026-08-10)
-a2NYakihrDg  # Revolutionary Change 2026-04-10 (18m) — 96.9% word-level identity with the 2020-11-24 Revolutionary Change episode already held (itself a cut of the 54m 2020-11-23 parent); the broken-glass death, the spinal-cancer compassionate-release refusal and the Greek hedge-fund arc are verbatim. Re-upload of a 2020 recording (rejected 2026-08-10)
-aulPxaV0M2g  # Due Dissidence 2026-04-06 (12m) — 83.8% shingle match to the same-day 194-minute Due Dissidence episode already held; reaction cut replaying a Kiriakou tweet and a Megyn Kelly clip, with "Please help us bomb Iran", the 1986 six-months line and the two NIEs all verified verbatim in that parent. Clip (rejected 2026-08-10)
-# --- 2026-08-12 morning run: re-uploads / syndications of parents already held; 0 articles cited any ---
-pPpNPJZiTMw	2026-03-17 The Inquiry — 91.2% shingle, 10/12 12-word runs verbatim in 2026-03-01-the-inquiry-torture-assassinations-epstein
-8dL7BXbrWZ0	2026-03-17 Breakpoint — 93.5% shingle, 10/12 runs verbatim in 2025-12-03-honesty-box-24-tough-questions (same rejection the 08-11 run identified)
-aHJuNGwf1C0	2026-03-16 Breakpoint — 92.6% shingle, 10/12 runs verbatim in 2026-01-23-the-honest-talk-the-honest-talk
-VsZukq8WxYQ	2026-03-12 Nietzsche upload — 2013 sentencing coverage re-posted with a 2026 date; 86.4% shingle / 10-12 runs verbatim in 2015-01-09-terrorpedia aggregator, 71.7% against 2013-01-30-democracy-now-sentenced-to-prison
-wM_qsmuiY5I	2026-03-09 DeProgram 'Ecocide in Iran' — Kiriakou absent (travelling, never joined); Ted Rall + producer Robbie West only, no Kiriakou speech in 59 min
-lSX5xFPy53c	2026-03-04 DeProgram — Kiriakou absent ('John has some other stuff to do'); Ted Rall + Robbie West + guest Achilles Larrea only
-0D-L8O6cuwI	2026-01-23 DeProgram 'Club Med Gaza' — re-upload of c0crs_0HgAU, already ingested as 2026-01-23-deprogram-show-with-ted-ra-club-med-gaza-deprogram-with-ted-rall-and-joh (identical cold open verbatim)
-CxG3Nosbl1s	2026-01-22 'The Honest Talk' credited to Steven Bartlett — first 20 min of the Diary of a CEO episode yUNoJ32eLBc (2026-01-19), verbatim through the closing Iraq-desk line
-kj_agEYf1yY	2026-01-21 Unfiltered With S.A.M. 7-min clip — verbatim excerpt of gbvuY-IqXvQ (2026-01-09), already ingested
--dnBFBNex6Q	2026-02-05 DeProgram 8-min segment — guest interview with Murtaza Hussain of Drop Site News; no attributable Kiriakou speech
-audef41a410e	2026-06-16 'Joannes Wyckmans Podcast' — AI-narrated deep-dive recap discussing Kiriakou in third person; he never speaks, fails single-source canon
-BJe2KbdhFDE
-jOzI8j-dHKg  # 2026-08-16 intake: "Best of Danny Jones" re-cut of the 2024-08-12 Kiriakou/Bustamante debate (ElMSJDkqSYQ) — already ingested
-SbEng6UYapY  # 2026-08-16 intake: Julian Dorey x Zach Foust — Kiriakou is discussed by others, never speaks; title-bait, zero canon material
-FlVsyxDlkc8  # 2026-08-16 intake: "Podcast Digest" — AI-narrated 10-takeaways recap of a Diary of a CEO episode; Kiriakou never speaks, paraphrase not canon
-Nfa4sEDOgmQ  # 2026-08-16 intake: "Podcast Summaries" — AI-narrated summary of the same Diary of a CEO episode; Kiriakou never speaks, paraphrase not canon
-Dnc4DmtWkGw  # 2026-08-16 intake: Dialogue Works "highlights" clip cut from the 2025-12-09 full episode already ingested
-lg1k-9p0zT8  # 2026-08-16 intake: duplicate upload of DeProgram 2026-01-13 already ingested as rdzab0KqbA8 (same date/title/duration); writing against the ingested slug instead
-lmh18pD_RKM  # 2026-08-16 intake: Jackson Hinkle monologue re-hosting a clip from the Mario Nawfal 2025-12-10 interview already ingested and already mined into venezuelan-heavy-crude-refining

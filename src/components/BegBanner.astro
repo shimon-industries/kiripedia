@@ -1,5 +1,5 @@
 ---
-// BegBanner — deadpan Wikipedia-style donation/download appeal.
+// BegBanner. Deadpan Wikipedia-style donation/download appeal.
 // Hidden by default; a small inline script decides whether to show it
 // based on per-visitor localStorage state (see gating rules in the script).
 const ZIP_HREF = '/kiripedia-2026-08-12.zip';
@@ -11,25 +11,26 @@ const BTC_HALF_B = BTC.slice(17);
 ---
 <div id="beg-banner" class="beg-banner" hidden>
   <div class="beg-banner-inner">
-    <div class="beg-maybe-later">MAYBE LATER</div>
-
     <p class="beg-lede">
       <span class="beg-i" aria-hidden="true">i</span>
-      <span class="beg-nb">Dear reader, we are not asking for money.</span> <span class="beg-nb">We are asking you to put KiriPedia up your ass.</span>
+      <span class="beg-line">Dear reader,</span> <span class="beg-line">we are not asking for money.</span> <span class="beg-line">We are asking you</span> <span class="beg-line">to put KiriPedia up your ass.</span>
     </p>
 
     <p class="beg-body">
-      The internet is not what it was.
       <a href="/wiki/julian-assange">Julian Assange</a>
-      spent seven years in an embassy and five years in a cell for less than what KiriPedia publishes daily.
+      did seven years in an embassy and five in a cell for less than what KiriPedia publishes every day.
     </p>
 
     <p class="beg-body">
-      When they come for us, they will come with a <strong>bag over the head</strong>, a ship registered under no nation's flag, and a destination in international waters that does not appear on any chart. The site will be taken down. The archive will be made to disappear. The only copy of KiriPedia left on Earth will depend on <strong>you</strong> and <strong>your rectum.</strong>
+      When they come for us, they will come with a bag over the head, a ship with no flag, and a destination on no chart. The website goes down. The archive vanishes. <strong>History depends on your rectal cavity.</strong>
     </p>
 
     <p class="beg-body">
-      John needs a presidential pardon. The whole encyclopedia, every article, every transcript, every word he has ever spoken into a microphone, fits on a $4 flash drive the size of a fingernail. <strong>Not in the cloud.</strong> 98% of our readers walk away. We ask you, humbly: be the 2%. <span class="beg-u">History depends on your rectal cavity.</span>
+      The whole encyclopedia (every article, every transcript, every word John has ever spoken into a microphone) fits on a $4 flash drive the size of a fingernail. Not in the cloud. In you.
+    </p>
+
+    <p class="beg-body">
+      John did 23 months in federal prison. As a convicted felon he is still barred from voting, from keeping and bearing arms, and from the federal pension he earned over 14 years at the CIA. A pardon restores all three.
     </p>
 
     <p class="beg-body beg-body-last">
@@ -64,13 +65,9 @@ const BTC_HALF_B = BTC.slice(17);
     </div>
 
     <p class="beg-footnote">
-      KiriPedia is not a nonprofit. KiriPedia will never be a nonprofit. Honestly this isn't even about the money.
+      KiriPedia is not a nonprofit. Honestly, this isn't even about the money.
       <br>
-      <a href="#" data-beg-dismiss="soft">Maybe later</a>
-      &nbsp;·&nbsp;
       <a href="#" data-beg-dismiss="hard">I already inserted one</a>
-      &nbsp;·&nbsp;
-      <a href="#" class="beg-strong-dismiss" data-beg-dismiss="hard">Never show me this again, I beg you</a>
     </p>
   </div>
 </div>
@@ -88,20 +85,27 @@ const BTC_HALF_B = BTC.slice(17);
   padding: 24px 28px 20px 28px;
   position: relative;
 }
-.beg-maybe-later {
+.beg-close {
   position: absolute;
   top: 8px;
   right: 12px;
   font-family: var(--font-sans);
-  font-size: 11px;
-  color: #72777d;
-  letter-spacing: 0.5px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #3366cc;
+  background: transparent;
+  border: none;
+  padding: 4px 6px;
+  cursor: pointer;
+  letter-spacing: 0.3px;
 }
+.beg-close:hover { text-decoration: underline; }
 .beg-lede {
-  margin: 0 0 14px 0;
+  margin: 0 0 18px 0;
   /* Always one line on desktop: size the text to the banner's own width. */
-  font-size: min(20px, 2.05cqi);
-  line-height: 1.45;
+  font-size: min(22px, 2.2cqi);
+  font-weight: 600;
+  line-height: 1.4;
   white-space: nowrap;
 }
 .beg-i {
@@ -127,6 +131,7 @@ const BTC_HALF_B = BTC.slice(17);
 .beg-body-last { margin-bottom: 20px; }
 .beg-u { text-decoration: underline; }
 .beg-nb { white-space: nowrap; }
+.beg-line { white-space: nowrap; }
 
 .beg-actions {
   display: grid;
@@ -188,11 +193,11 @@ const BTC_HALF_B = BTC.slice(17);
   line-height: 1.6;
 }
 .beg-footnote a { color: #3366cc; white-space: nowrap; }
-.beg-footnote a.beg-strong-dismiss { color: #b32424; }
 
-/* Narrow screens: the lede breaks into two lines, one sentence each. */
+/* Narrow screens: the lede breaks at the four phrase boundaries. */
 @media (max-width: 820px) {
-  .beg-lede { font-size: min(17px, 4.3cqi); white-space: normal; }
+  .beg-lede { font-size: min(20px, 5.1cqi); white-space: normal; text-align: left; }
+  .beg-lede .beg-line { display: block; }
 }
 
 @media (max-width: 640px) {
@@ -207,24 +212,26 @@ const BTC_HALF_B = BTC.slice(17);
   // Gating rules:
   //   - First-ever visitor: no banner. Bump visit count and stop.
   //   - Show on the 3rd wiki-article view onward.
-  //   - After showing 3 times without engagement, stop showing.
-  //   - If dismissed (any of the three dismiss links), hide for 30 days.
-  //   - A "returning visitor" (no visit in 7+ days) who has never dismissed
+  //   - Dismiss types drive a wiki-article-count re-show window, not days:
+  //       soft ("Maybe later") reappears after 5 more article views
+  //       hard ("I already inserted one") reappears after 30 more article views
+  //   - Returning visitor (no visit in 7+ days) who has never dismissed
   //     gets it on their first article of the returning session, regardless
   //     of the visit-count gate.
   var K = {
     visits: 'kp_beg_visits',
-    shown: 'kp_beg_shown',
-    dismissedUntil: 'kp_beg_dismissed_until',
+    dismissedType: 'kp_beg_dismissed_type',
+    dismissedAtVisit: 'kp_beg_dismissed_at_visit',
     lastVisit: 'kp_beg_last_visit',
   };
   var DAY = 86400000;
-  var DISMISS_DAYS = 30;
   var RETURN_DAYS = 7;
   var MIN_VISITS = 3;
-  var MAX_SHOWS = 3;
+  var SOFT_COOLDOWN = 5;
+  var HARD_COOLDOWN = 30;
 
   function num(k) { return parseInt(localStorage.getItem(k) || '0', 10); }
+  function str(k) { try { return localStorage.getItem(k) || ''; } catch (e) { return ''; } }
   function set(k, v) { try { localStorage.setItem(k, String(v)); } catch (e) {} }
 
   var now = Date.now();
@@ -233,11 +240,12 @@ const BTC_HALF_B = BTC.slice(17);
   var lastVisit = num(K.lastVisit);
   set(K.lastVisit, now);
 
-  var dismissedUntil = num(K.dismissedUntil);
-  if (dismissedUntil && now < dismissedUntil) return;
-
-  var shown = num(K.shown);
-  if (shown >= MAX_SHOWS) return;
+  var dismissType = str(K.dismissedType);
+  var dismissedAt = num(K.dismissedAtVisit);
+  if (dismissType && dismissedAt) {
+    var cooldown = dismissType === 'hard' ? HARD_COOLDOWN : SOFT_COOLDOWN;
+    if (visits - dismissedAt < cooldown) return;
+  }
 
   var returning = lastVisit && (now - lastVisit) > RETURN_DAYS * DAY;
   if (visits < MIN_VISITS && !returning) return;
@@ -245,14 +253,15 @@ const BTC_HALF_B = BTC.slice(17);
   var banner = document.getElementById('beg-banner');
   if (!banner) return;
   banner.hidden = false;
-  set(K.shown, shown + 1);
 
-  // Dismiss handlers
+  // Dismiss handlers (top × button + bottom links).
   var dismisses = banner.querySelectorAll('[data-beg-dismiss]');
   for (var i = 0; i < dismisses.length; i++) {
     dismisses[i].addEventListener('click', function (e) {
       e.preventDefault();
-      set(K.dismissedUntil, now + DISMISS_DAYS * DAY);
+      var type = this.getAttribute('data-beg-dismiss') || 'soft';
+      set(K.dismissedType, type);
+      set(K.dismissedAtVisit, visits);
       banner.hidden = true;
     });
   }

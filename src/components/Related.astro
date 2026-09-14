@@ -18,7 +18,7 @@ const items = (related[slug] ?? []).slice(0, 6);
       {items.map((r) => (
         <li>
           <a href={`/wiki/${r.slug}/`}>{r.title}</a>
-          {r.summary && <span class="related-summary"> — {r.summary}</span>}
+          {r.summary && <span class="related-summary">. {r.summary}</span>}
         </li>
       ))}
     </ul>

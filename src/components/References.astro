@@ -28,7 +28,7 @@ const enriched = await Promise.all(cites.map(async (c) => {
           <a href={`#cite-ref-${c.n}`} class="cite-backlink" title="Jump back to citation">↑</a>
           {' '}
           <cite><em>{c.show}</em>{c.date && <>, {c.date}</>}</cite>
-          {c.yt && <> — <a href={c.yt} target="_blank" rel="noopener">{c.t} on YouTube</a></>}
+          {c.yt && <>. <a href={c.yt} target="_blank" rel="noopener">{c.t} on YouTube</a></>}
           {' · '}
           <a href={c.transcript}>Transcript</a>
         </li>

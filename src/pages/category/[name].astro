@@ -34,7 +34,7 @@ const SITE = 'https://www.kiripedia.org';
 const CATEGORY_META = {
   people: {
     title: 'Everyone John Kiriakou has talked about',
-    description: 'Case officers, presidents, torturers, prisoners and journalists — every person John Kiriakou has described on the record, from his own interviews.',
+    description: 'Case officers, presidents, torturers, prisoners and journalists. Every person John Kiriakou has described on the record, from his own interviews.',
   },
   concepts: {
     title: 'The vocabulary of the CIA, explained',
@@ -46,11 +46,11 @@ const CATEGORY_META = {
   },
   procedures: {
     title: 'How the CIA actually does things',
-    description: 'Recruiting an asset, running a surveillance detection route, interrogating a detainee — the agency’s working methods as John Kiriakou describes them.',
+    description: 'Recruiting an asset, running a surveillance detection route, interrogating a detainee: the agency’s working methods as John Kiriakou describes them.',
   },
   places: {
     title: 'The CIA on the map, per Kiriakou',
-    description: 'Stations, prisons, safehouses and training grounds — the places John Kiriakou served in, was held in, or has described from the inside.',
+    description: 'Stations, prisons, safehouses and training grounds: the places John Kiriakou served in, was held in, or has described from the inside.',
   },
   cases: {
     title: 'The operations Kiriakou worked',
@@ -66,11 +66,11 @@ const CATEGORY_META = {
   },
   tradecraft: {
     title: 'CIA tradecraft, first-hand',
-    description: 'Dead drops, cover, surveillance detection and agent handling — the craft of espionage as taught to and practised by John Kiriakou.',
+    description: 'Dead drops, cover, surveillance detection and agent handling: the craft of espionage as taught to and practised by John Kiriakou.',
   },
   analysis: {
     title: 'What Kiriakou makes of it',
-    description: 'John Kiriakou’s own reading of the intelligence world — its politics, its failures and its incentives — separated from his account of events.',
+    description: 'John Kiriakou’s own reading of the intelligence world (its politics, its failures and its incentives), separated from his account of events.',
   },
   prison: {
     title: 'Kiriakou’s 23 months inside',
@@ -78,7 +78,7 @@ const CATEGORY_META = {
   },
   agencies: {
     title: 'The intelligence agencies, one by one',
-    description: 'The CIA, FBI, NSA and their foreign counterparts as John Kiriakou has described them — what each does and how they get along.',
+    description: 'The CIA, FBI, NSA and their foreign counterparts as John Kiriakou has described them: what each does and how they get along.',
   },
   programs: {
     title: 'The programmes behind the headlines',
@@ -127,7 +127,7 @@ const collectionSchema = {
     ) : (
       <ul>
         {matching.map((a) => (
-          <li><a href={`/wiki/${a.id.replace(/\.mdx?$/, '')}`}>{a.data.title}</a>{a.data.summary && <> — <span style="color:var(--color-base--subtle)">{a.data.summary}</span></>}</li>
+          <li><a href={`/wiki/${a.id.replace(/\.mdx?$/, '')}`}>{a.data.title}</a>{a.data.summary && <>. <span style="color:var(--color-base--subtle)">{a.data.summary}</span></>}</li>
         ))}
       </ul>
     )}
