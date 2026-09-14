@@ -17,7 +17,6 @@ function mdLite(s) {
     <div class="infobox-image">
       <img src={image} alt={imageCaption || title} loading="lazy" />
       {imageCaption && <div class="infobox-image-caption">{imageCaption}</div>}
-      {imageCredit && <div class="infobox-image-credit">{imageCredit}</div>}
     </div>
   ) : (
     <div class="infobox-image infobox-image-missing" aria-hidden="true">
