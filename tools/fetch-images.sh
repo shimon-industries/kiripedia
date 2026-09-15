@@ -1200,6 +1200,7 @@ MAPPING=(
   "tom-alexandrovich=Extradition_law_in_Israel"
   "the-magazines-that-bought-her-freedom=Athens"
   "the-penn-state-textbooks=Pennsylvania_State_University"
+  "the-chain-of-command-argument=National_Security_Agency"
   "the-maxwell-justice-department-interview=Ghislaine_Maxwell"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
