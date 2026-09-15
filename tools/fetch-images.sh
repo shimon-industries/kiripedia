@@ -1259,6 +1259,9 @@ MAPPING=(
   "kiriakou-legal-counteroffensive=Harvard_Law_School"
   "the-nineteen-hundred-dollar-premium=Affordable_Care_Act"
   "the-resort-with-no-air-conditioning=Baja_California_Sur"
+  "the-oath-in-the-auditorium=George_Bush_Center_for_Intelligence"
+  "targeting-information-between-allies=Iran%E2%80%93Russia_relations"
+  "wldragnet=Mass_surveillance_in_the_United_States"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
