@@ -1317,6 +1317,9 @@ MAPPING=(
   "the-golf-course-deed-forgery=Golf_course"
   "italian-intelligence-services=Agenzia_Informazioni_e_Sicurezza_Esterna"
   "mark-lanzotti=Jersey_Shore"
+  "the-lafayette-square-tents=Lafayette_Square,_Washington,_D.C."
+  "operational-cable=Directorate_of_Operations_(CIA)"
+  "the-perplexity-subscription=ChatGPT"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
