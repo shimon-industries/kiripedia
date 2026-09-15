@@ -1390,6 +1390,8 @@ MAPPING=(
   "mariel-boatlift-comparison=Mariel_boatlift"
   "the-two-tunisians=Faisalabad"
   "bruno-jordan-operation=Amman"
+  "the-intercept-source-exposures=The_Intercept"
+  "i-should-have-gone-to-film-school=Filmmaking"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
