@@ -1219,6 +1219,7 @@ MAPPING=(
   "the-culture-of-secrecy-and-the-truth=Classified_information"
   "arabic-and-greek=Greek_language"
   "savas-kalenderidis=Abdullah_Öcalan"
+  "i-want-my-fifty-bucks-back=Ohio_Stadium"
   "the-maxwell-justice-department-interview=Ghislaine_Maxwell"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
