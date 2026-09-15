@@ -1169,6 +1169,10 @@ MAPPING=(
   "the-managers-ranking=Joe_Rogan"
   "the-seventh-espionage-defendant=Espionage_Act_of_1917"
   "cofer-black-pre-9-11-warning=Cofer_Black"
+  "mojtaba-khamenei=Mojtaba_Khamenei"
+  "prison-tattoos=Prison_tattooing"
+  "the-toronto-transit-detention=Toronto_Pearson_International_Airport"
+  "syrian-minorities-and-the-israeli-strikes=Syria"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
