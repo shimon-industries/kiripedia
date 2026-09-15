@@ -1167,6 +1167,8 @@ MAPPING=(
   "the-russian-soldier-in-manama=Manama"
   "eastern-state-penitentiary=Eastern_State_Penitentiary"
   "the-managers-ranking=Joe_Rogan"
+  "the-seventh-espionage-defendant=Espionage_Act_of_1917"
+  "cofer-black-pre-9-11-warning=Cofer_Black"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
