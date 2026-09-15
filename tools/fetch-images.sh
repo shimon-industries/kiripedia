@@ -1346,6 +1346,7 @@ MAPPING=(
   "fentanyl-as-a-weapon-of-mass-destruction=Fentanyl"
   "the-iranians-only-have-to-survive=Tehran"
   "presidential-call-memcons=Situation_Room"
+  "the-caspian-drone-strike=Caspian_Sea"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
