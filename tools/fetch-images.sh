@@ -1185,6 +1185,9 @@ MAPPING=(
   "irs-audits-of-kiriakou=Internal_Revenue_Service"
   "kevin-shipp=George_Bush_Center_for_Intelligence"
   "the-rejected-deposits=Anti-money_laundering"
+  "the-desert-sunset-photograph=Ministry_of_Interior_(Saudi_Arabia)"
+  "the-denials-after-dallas=Assassination_of_John_F._Kennedy"
+  "kiriakou-greek-citizenship=Greek_passport"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
