@@ -1183,6 +1183,8 @@ MAPPING=(
   "mark-macgann=Uber_Files"
   "mitigating-damage=United_States_district_court"
   "irs-audits-of-kiriakou=Internal_Revenue_Service"
+  "kevin-shipp=George_Bush_Center_for_Intelligence"
+  "the-rejected-deposits=Anti-money_laundering"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
