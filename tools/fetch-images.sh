@@ -1351,6 +1351,8 @@ MAPPING=(
   "directorate-of-intelligence=CIA_headquarters"
   "suggested-responses=Fox_News"
   "the-pardoned-january-6th-defendants=January_6_United_States_Capitol_attack"
+  "the-thrown-sandwich=District_of_Columbia_National_Guard"
+  "muddling-through=Cold_War"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
