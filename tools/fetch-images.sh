@@ -1344,6 +1344,8 @@ MAPPING=(
   "directorate-of-operations=Central_Intelligence_Agency"
   "the-au-pair-who-became-a-stockholm-police-officer=Stockholm"
   "fentanyl-as-a-weapon-of-mass-destruction=Fentanyl"
+  "the-iranians-only-have-to-survive=Tehran"
+  "presidential-call-memcons=Situation_Room"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
