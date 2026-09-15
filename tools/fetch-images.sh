@@ -1097,6 +1097,7 @@ MAPPING=(
   "the-washed-out-road-to-the-airport=Baja_California_Sur"
   "the-istanbul-peace-talks=Istanbul"
   "the-cousin-who-stopped-speaking=Washington_Post"
+  "tommy-mchale=Port_Authority_of_New_York_and_New_Jersey"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
   "slow-rolling-the-president=Central_Intelligence_Agency"
