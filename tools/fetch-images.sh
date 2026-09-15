@@ -1180,6 +1180,9 @@ MAPPING=(
   "whether-anyone-is-still-looking-for-zawahiri=Ayman_al-Zawahiri"
   "andrew-bustamante=Andrew_Bustamante"
   "the-spell-your-name-briefing=Mossad"
+  "mark-macgann=Uber_Files"
+  "mitigating-damage=United_States_district_court"
+  "irs-audits-of-kiriakou=Internal_Revenue_Service"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
