@@ -1164,6 +1164,8 @@ MAPPING=(
   "the-booby-trapped-christmas-cards=Booby_trap"
   "the-calls-not-to-attack-iran=Donald_Trump"
   "the-tarantula-on-the-mini-fridge=Tarantula"
+  "the-russian-soldier-in-manama=Manama"
+  "eastern-state-penitentiary=Eastern_State_Penitentiary"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
