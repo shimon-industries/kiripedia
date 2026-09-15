@@ -1342,6 +1342,8 @@ MAPPING=(
   "the-dnc-in-debt=Democratic_National_Committee"
   "barry-eisler=Barry_Eisler"
   "directorate-of-operations=Central_Intelligence_Agency"
+  "the-au-pair-who-became-a-stockholm-police-officer=Stockholm"
+  "fentanyl-as-a-weapon-of-mass-destruction=Fentanyl"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
