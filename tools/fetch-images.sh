@@ -1194,6 +1194,9 @@ MAPPING=(
   "chomo=Federal_Correctional_Institution,_Loretto"
   "phil-donahue=Phil_Donahue"
   "ten-minute-moves=Federal_Bureau_of_Prisons"
+  "the-knight-ridder-panel=Julian_Assange"
+  "the-pondiki-cartoon=Embassy_of_the_United_States,_Athens"
+  "the-jenin-incursion=Jenin"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
