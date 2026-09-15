@@ -1299,6 +1299,8 @@ MAPPING=(
   "the-hannity-lockerbie-exchange=Sean_Hannity"
   "the-atf-funding-rider=Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives"
   "the-yale-intern-fascist=Yale_University"
+  "intelligence-peddlers=Embassy"
+  "the-las-vegas-case=Las_Vegas"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
