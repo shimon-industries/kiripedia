@@ -1202,6 +1202,9 @@ MAPPING=(
   "rick-praau=Counterterrorism_Center"
   "the-dorm-as-a-reward=Ghislaine_Maxwell"
   "zunzuneo=United_States_Agency_for_International_Development"
+  "the-co-who-wanted-the-cia=Loretto,_Pennsylvania"
+  "the-east-mediterranean-gas-partnership=Eastern_Mediterranean"
+  "greek-ambassador-dinner-encounter=Ron_Wyden"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
