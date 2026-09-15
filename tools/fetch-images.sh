@@ -1267,6 +1267,8 @@ MAPPING=(
   "the-briefing-held-off-campus=Mossad"
   "speakers-office-gatekeeping=Speaker_of_the_United_States_House_of_Representatives"
   "prison-depression=Federal_prison"
+  "how-the-cia-kills=Suppressor"
+  "kiriakou-shortwave-listening=Shortwave_radio"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
