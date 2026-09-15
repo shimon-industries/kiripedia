@@ -43,7 +43,7 @@ MAPPING=(
   "naftali-bennett=Naftali_Bennett"
   "the-samson-option=Samson_Option"
   "the-ras-laffan-strike=Ras_Laffan"
-  "south-pars-and-the-north-dome=South_Pars/North_Dome_Gas-Condensate_field"
+  "south-pars-and-the-north-dome=Persian_Gulf"
   "the-f-35-shootdown=Lockheed_Martin_F-35_Lightning_II"
   "the-knesset-death-penalty-law=Knesset"
   "the-danish-greenland-demolition-plan=Greenland"
@@ -1407,6 +1407,8 @@ MAPPING=(
   "greater-israel=Zionism"
   "the-woman-escorted-from-the-white-house=White_House"
   "the-clinton-era-asset-cull=Directorate_of_Operations_(CIA)"
+  "the-greek-offer-for-the-bamiyan-buddhas=Buddhas_of_Bamyan"
+  "south-pars-and-the-north-dome=Persian_Gulf"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
