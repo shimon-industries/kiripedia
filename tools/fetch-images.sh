@@ -1252,6 +1252,9 @@ MAPPING=(
   "pisces-prison-gang=MS-13"
   "the-house-of-cards-theory=Ali_Khamenei"
   "the-oz-analogy=Oz_(TV_series)"
+  "the-stratfor-cables-on-venezuela=Juan_Guaidó"
+  "declared-officer=Ellinikon_International_Airport"
+  "site-13=Abu_Zubaydah"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
