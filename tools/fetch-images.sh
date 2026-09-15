@@ -1335,6 +1335,9 @@ MAPPING=(
   "the-addis-ababa-zoo=Addis_Ababa"
   "kiriakou-skeet-shooting=Skeet_shooting"
   "the-paris-rifle-serial-number=M4_carbine"
+  "spy-films-on-screen=James_Bond"
+  "the-condoleezza-rice-meeting=Condoleezza_Rice"
+  "colonel-khaled=Inter-Services_Intelligence"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
