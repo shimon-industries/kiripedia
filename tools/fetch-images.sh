@@ -1200,6 +1200,8 @@ MAPPING=(
   "albright-in-pyongyang=Madeleine_Albright"
   "the-uyghur-resettlement-trade=UBS"
   "rick-praau=Counterterrorism_Center"
+  "the-dorm-as-a-reward=Ghislaine_Maxwell"
+  "zunzuneo=United_States_Agency_for_International_Development"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.

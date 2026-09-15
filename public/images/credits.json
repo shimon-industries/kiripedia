@@ -845,6 +845,7 @@
   "the-denials-after-dallas": {"file":"/images/the-denials-after-dallas.jpg","source_article":"Assassination_of_John_F._Kennedy","artist":"Walt Cisco, Dallas Morning News","license":"Public domain","via":"Wikimedia Commons"},
   "the-desert-sunset-photograph": {"file":"/images/the-desert-sunset-photograph.png","source_article":"Ministry_of_Interior_(Saudi_Arabia)","artist":"Unknown","license":"See Wikimedia Commons","via":"Wikimedia Commons"},
   "the-disappearance-of-daniel-hale": {"file":"/images/the-disappearance-of-daniel-hale.jpg","source_article":"Daniel_Hale","artist":"Unknown","license":"See Wikimedia Commons","via":"Wikimedia Commons"},
+  "the-dorm-as-a-reward": {"file":"/images/the-dorm-as-a-reward.webp","source_article":"Ghislaine_Maxwell","artist":"Unknown","license":"See Wikimedia Commons","via":"Wikimedia Commons"},
   "the-drone-papers": {"file":"/images/the-drone-papers.png","source_article":"The_Intercept","artist":"Unknown","license":"See Wikimedia Commons","via":"Wikimedia Commons"},
   "the-dublin-compensation": {"file":"/images/the-dublin-compensation.jpg","source_article":"Dublin_Airport","artist":"Unknown","license":"See Wikimedia Commons","via":"Wikimedia Commons"},
   "the-egyptian-berm": {"file":"/images/the-egyptian-berm.jpg","source_article":"Rafah_border_crossing","artist":"Unknown","license":"See Wikimedia Commons","via":"Wikimedia Commons"},
@@ -988,5 +989,6 @@
   "zawahiri-assassination": {"file":"/images/zawahiri-assassination.jpg","source_article":"Killing_of_Ayman_al-Zawahiri","artist":"Unknown","license":"See Wikimedia Commons","via":"Wikimedia Commons"},
   "zbigniew-brzezinski": {"file":"/images/zbigniew-brzezinski.jpg","source_article":"Zbigniew_Brzezinski","artist":"Unknown","license":"See Wikimedia Commons","via":"Wikimedia Commons"},
   "zero-dark-thirty": {"file":"/images/zero-dark-thirty.jpg","source_article":"Zero_Dark_Thirty","artist":"Unknown","license":"See Wikimedia Commons","via":"Wikimedia Commons"},
-  "zohran-mamdani": {"file":"/images/zohran-mamdani.jpg","source_article":"Zohran_Mamdani","artist":"Dmitryshein","license":"CC BY-SA 4.0","via":"Wikimedia Commons"}
+  "zohran-mamdani": {"file":"/images/zohran-mamdani.jpg","source_article":"Zohran_Mamdani","artist":"Dmitryshein","license":"CC BY-SA 4.0","via":"Wikimedia Commons"},
+  "zunzuneo": {"file":"/images/zunzuneo.png","source_article":"United_States_Agency_for_International_Development","artist":"U.S. Government","license":"Public domain","via":"Wikimedia Commons"}
 }
