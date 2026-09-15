@@ -1320,6 +1320,9 @@ MAPPING=(
   "the-lafayette-square-tents=Lafayette_Square,_Washington,_D.C."
   "operational-cable=Directorate_of_Operations_(CIA)"
   "the-perplexity-subscription=ChatGPT"
+  "the-bridgeton-and-the-tanker-escorts=SS_Bridgeton"
+  "the-tier-one-walk-up=Gust_Avrakotos"
+  "cleaning-up-after-tora-bora=Battle_of_Tora_Bora"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
