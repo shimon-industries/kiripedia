@@ -1248,6 +1248,7 @@ MAPPING=(
   "expanding-the-definition-of-terrorism=Terrorism"
   "the-chinese-professor-on-linkedin=Ministry_of_State_Security_(China)"
   "cia-operational-psychologists=Central_Intelligence_Agency"
+  "general-muhammad-equipment-gift=Islamabad"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
