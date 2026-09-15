@@ -1415,6 +1415,7 @@ MAPPING=(
   "virginia-pardon-and-voting-rights=Terry_McAuliffe"
   "the-rebuttal-book=George_Tenet"
   "false-flags-are-too-hard=False_flag"
+  "the-piers-morgan-panel=Piers_Morgan"
   "gavin-newsom=Gavin_Newsom"
   "the-question-about-the-showers=Federal_prison"
   "carrying-classified-out-of-a-scif=Classified_information"
