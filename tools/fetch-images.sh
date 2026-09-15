@@ -1338,6 +1338,7 @@ MAPPING=(
   "spy-films-on-screen=James_Bond"
   "the-condoleezza-rice-meeting=Condoleezza_Rice"
   "colonel-khaled=Inter-Services_Intelligence"
+  "bigger-than-the-russian-embassy=Cairo"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
