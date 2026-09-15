@@ -1193,6 +1193,7 @@ MAPPING=(
   "the-unredacted-copy-paste=Jeffrey_Epstein"
   "chomo=Federal_Correctional_Institution,_Loretto"
   "phil-donahue=Phil_Donahue"
+  "ten-minute-moves=Federal_Bureau_of_Prisons"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
