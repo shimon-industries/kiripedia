@@ -1388,6 +1388,8 @@ MAPPING=(
   "first-recruitment-in-athens=Athens"
   "qat-in-yemen=Khat"
   "mariel-boatlift-comparison=Mariel_boatlift"
+  "the-two-tunisians=Faisalabad"
+  "bruno-jordan-operation=Amman"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
