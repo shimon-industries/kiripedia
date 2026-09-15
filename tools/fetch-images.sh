@@ -1280,6 +1280,7 @@ MAPPING=(
   "the-giuliani-epstein-emails=Rudy_Giuliani"
   "no-bad-food-in-athens=Greek_cuisine"
   "corkscrew-landings-in-afghanistan=Bagram_Airfield"
+  "snowden-did-not-defect=Sheremetyevo_International_Airport"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
