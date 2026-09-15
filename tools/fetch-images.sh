@@ -1331,6 +1331,8 @@ MAPPING=(
   "the-thirty-year-old-nominee=Office_of_Special_Counsel"
   "the-jerusalem-bluff=Jerusalem"
   "cia-pentagon-war-divide=The_Pentagon"
+  "the-four-requirements-of-a-coup=United_States_Military_Academy"
+  "the-addis-ababa-zoo=Addis_Ababa"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
