@@ -1117,6 +1117,7 @@ MAPPING=(
   "forcing-iran-toward-a-bomb=Ali_Khamenei"
   "the-hundred-million-a-day-briefing=George_H._W._Bush"
   "netanyahu-and-the-tel-aviv-police-chief=Tel_Aviv"
+  "the-epstein-files-and-the-starmer-government=Keir_Starmer"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
   "slow-rolling-the-president=Central_Intelligence_Agency"
