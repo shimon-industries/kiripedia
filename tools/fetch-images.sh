@@ -1373,6 +1373,10 @@ MAPPING=(
   "the-empty-church-of-the-holy-sepulchre=Church_of_the_Holy_Sepulchre"
   "chief-of-station=Central_Intelligence_Agency"
   "the-supporters-who-could-not-be-public=Central_Intelligence_Agency"
+  "the-kuwaiti-cargo-in-yuan=Renminbi"
+  "permanent-multipolar-world=BRICS"
+  "palestine-house=Miko_Peled"
+  "an-actual-summit=Anchorage,_Alaska"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
