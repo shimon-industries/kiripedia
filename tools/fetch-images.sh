@@ -1176,6 +1176,7 @@ MAPPING=(
   "cia-language-training=Foreign_Service_Institute"
   "abigail-spanberger=Abigail_Spanberger"
   "the-cave-myth=Tora_Bora"
+  "the-solomon-islands-trip=Guadalcanal"
   "the-maxwell-justice-department-interview=Ghislaine_Maxwell"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
