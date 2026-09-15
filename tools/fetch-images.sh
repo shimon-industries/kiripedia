@@ -1333,6 +1333,8 @@ MAPPING=(
   "cia-pentagon-war-divide=The_Pentagon"
   "the-four-requirements-of-a-coup=United_States_Military_Academy"
   "the-addis-ababa-zoo=Addis_Ababa"
+  "kiriakou-skeet-shooting=Skeet_shooting"
+  "the-paris-rifle-serial-number=M4_carbine"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
