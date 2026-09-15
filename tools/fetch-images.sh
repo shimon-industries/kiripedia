@@ -1255,6 +1255,8 @@ MAPPING=(
   "the-stratfor-cables-on-venezuela=Juan_Guaidó"
   "declared-officer=Ellinikon_International_Airport"
   "site-13=Abu_Zubaydah"
+  "the-truth-social-announcement=Mar-a-Lago"
+  "kiriakou-legal-counteroffensive=Harvard_Law_School"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
