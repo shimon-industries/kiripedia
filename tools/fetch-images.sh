@@ -1133,6 +1133,7 @@ MAPPING=(
   "frus-greece-turkey-cyprus-volume=Government_Publishing_Office"
   "the-bloomingdale-precedent=Alfred_S._Bloomingdale"
   "the-hooding-dispute=Hood_(headgear)"
+  "kiriakous-recommended-reading=John_Ranelagh"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
   "slow-rolling-the-president=Central_Intelligence_Agency"
