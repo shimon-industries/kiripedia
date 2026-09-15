@@ -1224,6 +1224,7 @@ MAPPING=(
   "the-beer-and-the-couch=Sofa"
   "the-seven-countries-argument=War_in_Afghanistan_(2001–2021)"
   "the-bamiyan-precedent=Buddhas_of_Bamyan"
+  "khalid-el-masri=Khalid_el-Masri"
   "the-maxwell-justice-department-interview=Ghislaine_Maxwell"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
