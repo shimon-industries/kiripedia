@@ -1363,6 +1363,8 @@ MAPPING=(
   "bulldozing-the-olive-orchards=Olive"
   "daniel-pearl=Daniel_Pearl"
   "us-overseas-basing-footprint=Military_base"
+  "the-interrupted-break-in=Lock_picking"
+  "dog-food-memo=Federal_Correctional_Institution,_Loretto"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
