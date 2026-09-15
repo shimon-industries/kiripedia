@@ -1301,6 +1301,9 @@ MAPPING=(
   "the-yale-intern-fascist=Yale_University"
   "intelligence-peddlers=Embassy"
   "the-las-vegas-case=Las_Vegas"
+  "donnie-reynolds-jr=Communications_Management_Unit"
+  "leonard-peltier=Leonard_Peltier"
+  "fridays-at-the-agency=Central_Intelligence_Agency"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
