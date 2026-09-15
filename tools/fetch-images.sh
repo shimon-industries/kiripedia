@@ -1289,6 +1289,10 @@ MAPPING=(
   "six-different-passports=United_States_passport"
   "greta-zimmer-friedman=V-J_Day_in_Times_Square"
   "the-french-human-sources=DGSE"
+  "marlon-beard=Federal_Correctional_Institution,_Loretto"
+  "the-eritrea-prohibition=Eritrea"
+  "clyde-hall=James_Traficant"
+  "the-nine-months-on-food-stamps=Supplemental_Nutrition_Assistance_Program"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
