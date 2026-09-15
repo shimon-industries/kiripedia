@@ -1197,6 +1197,9 @@ MAPPING=(
   "the-knight-ridder-panel=Julian_Assange"
   "the-pondiki-cartoon=Embassy_of_the_United_States,_Athens"
   "the-jenin-incursion=Jenin"
+  "albright-in-pyongyang=Madeleine_Albright"
+  "the-uyghur-resettlement-trade=UBS"
+  "rick-praau=Counterterrorism_Center"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
