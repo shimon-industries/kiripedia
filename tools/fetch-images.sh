@@ -1308,6 +1308,8 @@ MAPPING=(
   "taliban-spokesman-setup=Federal_Correctional_Institution,_Loretto"
   "leonie-brinkema=Albert_V._Bryan_United_States_Courthouse"
   "mexico-city-as-an-espionage-hub=Mexico_City"
+  "the-underlying-sadness=Depression_(mood)"
+  "jean-gately=Bay_of_Pigs_Invasion"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
