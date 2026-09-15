@@ -210,46 +210,50 @@ const BTC_HALF_B = BTC.slice(17);
 
 <script is:inline>
 (function () {
-  // Gating rules:
-  //   - First-ever visitor: no banner. Bump visit count and stop.
-  //   - Show on the 3rd wiki-article view onward.
-  //   - Dismiss types drive a wiki-article-count re-show window, not days:
-  //       soft ("Maybe later") reappears after 5 more article views
-  //       hard ("I already inserted one") reappears after 30 more article views
-  //   - Returning visitor (no visit in 7+ days) who has never dismissed
-  //     gets it on their first article of the returning session, regardless
-  //     of the visit-count gate.
+  // Gating rules (hybrid: navigation + real time):
+  //   - Warm-up: no banner until the visitor has browsed a few articles.
+  //   - Once shown or dismissed, hide for at least 14 days AND keep browsing
+  //     a while (a long re-show window) before it can reappear.
+  //   - Session lock: once shown in this browser session, do not re-show
+  //     while they keep navigating around the site.
   var K = {
     visits: 'kp_beg_visits',
-    dismissedType: 'kp_beg_dismissed_type',
-    dismissedAtVisit: 'kp_beg_dismissed_at_visit',
-    lastVisit: 'kp_beg_last_visit',
+    lastShown: 'kp_beg_last_shown',
+    lastShownVisit: 'kp_beg_last_shown_visit',
+    session: 'kp_beg_session_seen',
   };
   var DAY = 86400000;
-  var RETURN_DAYS = 7;
-  var MIN_VISITS = 3;
-  var SOFT_COOLDOWN = 5;
-  var HARD_COOLDOWN = 30;
+  var WARMUP_VISITS = 4;        // browse ~4 articles before ever seeing it
+  var RESHOW_DAYS = 14;         // at least 2 weeks between showings
+  var RESHOW_VISITS = 40;       // and at least ~40 more articles browsed
 
   function num(k) { return parseInt(localStorage.getItem(k) || '0', 10); }
-  function str(k) { try { return localStorage.getItem(k) || ''; } catch (e) { return ''; } }
   function set(k, v) { try { localStorage.setItem(k, String(v)); } catch (e) {} }
+  function sget(k) { try { return sessionStorage.getItem(k) || ''; } catch (e) { return ''; } }
+  function sset(k, v) { try { sessionStorage.setItem(k, String(v)); } catch (e) {} }
 
   var now = Date.now();
   var visits = num(K.visits) + 1;
   set(K.visits, visits);
-  var lastVisit = num(K.lastVisit);
-  set(K.lastVisit, now);
 
-  var dismissType = str(K.dismissedType);
-  var dismissedAt = num(K.dismissedAtVisit);
-  if (dismissType && dismissedAt) {
-    var cooldown = dismissType === 'hard' ? HARD_COOLDOWN : SOFT_COOLDOWN;
-    if (visits - dismissedAt < cooldown) return;
+  // Session lock: shown once already in this tab session, stay quiet.
+  if (sget(K.session)) return;
+
+  var lastShown = num(K.lastShown);
+  var lastShownVisit = num(K.lastShownVisit);
+
+  if (lastShown === 0) {
+    // Never shown yet: warm-up gate only.
+    if (visits < WARMUP_VISITS) return;
+  } else {
+    // Already shown once: both time AND navigation cooldowns must pass.
+    if (now - lastShown < RESHOW_DAYS * DAY) return;
+    if (visits - lastShownVisit < RESHOW_VISITS) return;
   }
 
-  var returning = lastVisit && (now - lastVisit) > RETURN_DAYS * DAY;
-  if (visits < MIN_VISITS && !returning) return;
+  set(K.lastShown, now);
+  set(K.lastShownVisit, visits);
+  sset(K.session, '1');
 
   var banner = document.getElementById('beg-banner');
   if (!banner) return;
@@ -260,9 +264,6 @@ const BTC_HALF_B = BTC.slice(17);
   for (var i = 0; i < dismisses.length; i++) {
     dismisses[i].addEventListener('click', function (e) {
       e.preventDefault();
-      var type = this.getAttribute('data-beg-dismiss') || 'soft';
-      set(K.dismissedType, type);
-      set(K.dismissedAtVisit, visits);
       banner.hidden = true;
     });
   }
