@@ -1188,6 +1188,11 @@ MAPPING=(
   "the-desert-sunset-photograph=Ministry_of_Interior_(Saudi_Arabia)"
   "the-denials-after-dallas=Assassination_of_John_F._Kennedy"
   "kiriakou-greek-citizenship=Greek_passport"
+  "the-dandelion-salad=Dandelion"
+  "warrenton-training-center=Warrenton,_Virginia"
+  "the-unredacted-copy-paste=Jeffrey_Epstein"
+  "chomo=Federal_Correctional_Institution,_Loretto"
+  "phil-donahue=Phil_Donahue"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
