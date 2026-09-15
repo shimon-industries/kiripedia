@@ -1177,6 +1177,9 @@ MAPPING=(
   "kiriakou-acting-career=Screen_Actors_Guild"
   "the-waters-edge-doctrine=Newt_Gingrich"
   "kiriakou-ufo-sighting=Unidentified_flying_object"
+  "whether-anyone-is-still-looking-for-zawahiri=Ayman_al-Zawahiri"
+  "andrew-bustamante=Andrew_Bustamante"
+  "the-spell-your-name-briefing=Mossad"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
