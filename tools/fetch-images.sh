@@ -1173,6 +1173,10 @@ MAPPING=(
   "prison-tattoos=Prison_tattooing"
   "the-toronto-transit-detention=Toronto_Pearson_International_Airport"
   "syrian-minorities-and-the-israeli-strikes=Syria"
+  "whistleblower-support-network=Daniel_Ellsberg"
+  "kiriakou-acting-career=Screen_Actors_Guild"
+  "the-waters-edge-doctrine=Newt_Gingrich"
+  "kiriakou-ufo-sighting=Unidentified_flying_object"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
