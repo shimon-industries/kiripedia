@@ -1407,8 +1407,9 @@ MAPPING=(
   "greater-israel=Zionism"
   "the-woman-escorted-from-the-white-house=White_House"
   "the-clinton-era-asset-cull=Directorate_of_Operations_(CIA)"
+  "the-twenty-five-in-pakistan=Jeanne_Shaheen"
+  "the-airbridge=Larnaca_International_Airport"
   "the-greek-offer-for-the-bamiyan-buddhas=Buddhas_of_Bamyan"
-  "south-pars-and-the-north-dome=Persian_Gulf"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
