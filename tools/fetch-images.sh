@@ -1249,6 +1249,9 @@ MAPPING=(
   "the-chinese-professor-on-linkedin=Ministry_of_State_Security_(China)"
   "cia-operational-psychologists=Central_Intelligence_Agency"
   "general-muhammad-equipment-gift=Islamabad"
+  "pisces-prison-gang=MS-13"
+  "the-house-of-cards-theory=Ali_Khamenei"
+  "the-oz-analogy=Oz_(TV_series)"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
