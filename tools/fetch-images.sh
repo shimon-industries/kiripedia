@@ -1420,6 +1420,7 @@ MAPPING=(
   "sharon-scranage=Ghana"
   "presidential-appetite-for-intelligence=President's_Daily_Brief"
   "where-he-slept-in-afghanistan=Bagram_Airfield"
+  "hes-been-ours-since-the-seventies=Cocktail_party"
   "gavin-newsom=Gavin_Newsom"
   "the-question-about-the-showers=Federal_prison"
   "carrying-classified-out-of-a-scif=Classified_information"
