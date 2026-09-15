@@ -1217,6 +1217,8 @@ MAPPING=(
   "the-oreilly-exclusivity-rule=Bill_O%27Reilly_(political_commentator)"
   "sanaa-sewer-project=Sanaa"
   "daniel-duggan=Extradition"
+  "censorship-on-the-left=The_Nation"
+  "major-non-nato-ally-proposal-for-ukraine=Major_non-NATO_ally"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
