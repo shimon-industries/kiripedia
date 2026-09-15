@@ -1219,6 +1219,8 @@ MAPPING=(
   "daniel-duggan=Extradition"
   "censorship-on-the-left=The_Nation"
   "major-non-nato-ally-proposal-for-ukraine=Major_non-NATO_ally"
+  "merry-go-round-prank=Prison_uniform"
+  "the-hersh-publishing-collapse=Seymour_Hersh"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
