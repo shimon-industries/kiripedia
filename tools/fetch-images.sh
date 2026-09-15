@@ -1350,6 +1350,7 @@ MAPPING=(
   "the-hundred-eighty-seven-israeli-officers=Mossad"
   "directorate-of-intelligence=CIA_headquarters"
   "suggested-responses=Fox_News"
+  "the-pardoned-january-6th-defendants=January_6_United_States_Capitol_attack"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
