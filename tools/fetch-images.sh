@@ -1144,7 +1144,7 @@ MAPPING=(
   "pakistani-troops-for-gaza=Pakistan_Armed_Forces"
   "the-kosovo-objection=NATO_bombing_of_Yugoslavia"
   "the-homelessness-executive-order=Homelessness_in_the_United_States"
-  "nicholas-burns=Nicholas_Burns"
+  "nicholas-burns=R._Nicholas_Burns"
   "dimitris-koufodinas=Dimitris_Koufodinas"
   "john-larson=John_B._Larson"
   "the-baltimore-plot=Baltimore_Plot"
@@ -1228,6 +1228,8 @@ MAPPING=(
   "eric-holder=Eric_Holder"
   "rat-and-pedophile-table=Prison"
   "kiriakou-2026-viral-wave=Selfie"
+  "the-hundred-and-fifty-foot-limousine=Mitch_McConnell"
+  "greek-health-care-system=Healthcare_in_Greece"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
