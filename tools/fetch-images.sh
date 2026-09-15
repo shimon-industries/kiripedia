@@ -1409,6 +1409,7 @@ MAPPING=(
   "the-clinton-era-asset-cull=Directorate_of_Operations_(CIA)"
   "the-twenty-five-in-pakistan=Jeanne_Shaheen"
   "the-airbridge=Larnaca_International_Airport"
+  "djibouti=Camp_Lemonnier"
   "gavin-newsom=Gavin_Newsom"
   "the-question-about-the-showers=Federal_prison"
   "carrying-classified-out-of-a-scif=Classified_information"
