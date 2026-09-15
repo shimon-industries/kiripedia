@@ -1210,6 +1210,9 @@ MAPPING=(
   "pakistan-without-maps=Faisalabad"
   "israel-and-the-fear-of-being-held-back=Mediterranean_Sea"
   "salman-bin-hamad=Salman_bin_Hamad_Al_Khalifa"
+  "more-money-on-security-in-athens-than-beirut=Athens"
+  "the-189-undeclared-officers=Embassy_of_Israel,_Washington,_D.C."
+  "the-twenty-thousand-dollar-tweet=Jeanine_Pirro"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
