@@ -1379,6 +1379,7 @@ MAPPING=(
   "an-actual-summit=Anchorage,_Alaska"
   "the-san-francisco-bacterium-release=San_Francisco"
   "ed-martin=Federal_pardons_in_the_United_States"
+  "tony-mendez=Tony_Mendez"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
