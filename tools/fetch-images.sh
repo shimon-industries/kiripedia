@@ -1155,6 +1155,7 @@ MAPPING=(
   "the-restaurants-in-witness-protection=Restaurant"
   "embassy-movie-night=Embassy_of_the_United_States,_Islamabad"
   "supervised-release-travel-restrictions=United_States_passport"
+  "curtailment-cables=Waterboarding"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
   "slow-rolling-the-president=Central_Intelligence_Agency"
