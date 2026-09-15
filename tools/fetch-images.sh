@@ -1262,6 +1262,11 @@ MAPPING=(
   "the-oath-in-the-auditorium=George_Bush_Center_for_Intelligence"
   "targeting-information-between-allies=Iran%E2%80%93Russia_relations"
   "wldragnet=Mass_surveillance_in_the_United_States"
+  "the-counterintelligence-exemption=Counterintelligence"
+  "iran-posed-no-threat=International_Atomic_Energy_Agency"
+  "the-briefing-held-off-campus=Mossad"
+  "speakers-office-gatekeeping=Speaker_of_the_United_States_House_of_Representatives"
+  "prison-depression=Federal_prison"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
