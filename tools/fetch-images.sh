@@ -1108,6 +1108,7 @@ MAPPING=(
   "syrian-bodyguard=Abu_Zubaydah"
   "the-mental-health-parity-gap=Mental_health"
   "the-state-department-cover-investigation=United_States_Department_of_State"
+  "the-mintpress-prediction=Barack_Obama"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
   "slow-rolling-the-president=Central_Intelligence_Agency"
