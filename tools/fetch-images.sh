@@ -1273,6 +1273,8 @@ MAPPING=(
   "the-hundred-city-tour=Belfast"
   "no-ethics-training-at-the-cia=Directorate_of_Operations_(CIA)"
   "steven-lalas=Greek_National_Intelligence_Service"
+  "israeli-interception-of-us-secure-calls=Signals_intelligence"
+  "hazara-judo-belts=Hazaras"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
