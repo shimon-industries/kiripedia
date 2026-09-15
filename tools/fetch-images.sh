@@ -1239,6 +1239,10 @@ MAPPING=(
   "israels-rightward-shift=Aliyah"
   "the-two-officers-who-changed=Counterterrorism_Center"
   "heather-kiriakou=John_Kiriakou"
+  "iraq-the-training-account=Iraq"
+  "mike-scheuer=Michael_Scheuer"
+  "blackmail-of-closeted-politicians=United_States_Capitol"
+  "the-gur-sbu-gun-battle=Kyiv"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
