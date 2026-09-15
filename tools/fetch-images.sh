@@ -1190,6 +1190,7 @@ MAPPING=(
   "pacific-island-peacekeepers=Fiji"
   "mike-baker=Athens"
   "the-unsearched-car-at-mar-a-lago=Mar-a-Lago"
+  "americans-who-tell-the-truth-portrait=Portrait_painting"
   "the-maxwell-justice-department-interview=Ghislaine_Maxwell"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
