@@ -1208,6 +1208,8 @@ MAPPING=(
   "national-security-letters=National_security_letter"
   "the-fifteen-dollar-maintenance-fee=Bank_of_America"
   "pakistan-without-maps=Faisalabad"
+  "israel-and-the-fear-of-being-held-back=Mediterranean_Sea"
+  "salman-bin-hamad=Salman_bin_Hamad_Al_Khalifa"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
