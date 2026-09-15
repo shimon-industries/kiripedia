@@ -1325,6 +1325,9 @@ MAPPING=(
   "cleaning-up-after-tora-bora=Battle_of_Tora_Bora"
   "the-bowl-of-dates=Date_(fruit)"
   "the-greenland-prediction=Greenland"
+  "the-indonesian-recruitment-question=Jakarta"
+  "taking-the-ball-and-going-home=Butler,_Pennsylvania"
+  "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
