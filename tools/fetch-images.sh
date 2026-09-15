@@ -1356,6 +1356,8 @@ MAPPING=(
   "the-armenian-podcasters=Armenian_diaspora"
   "the-seventy-two-year-old-contractor=Central_Intelligence_Agency"
   "us-incarceration-rate=Incarceration_in_the_United_States"
+  "passing-time-at-loretto=Federal_Correctional_Institution,_Loretto"
+  "robert-david-steele=Podcast"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
