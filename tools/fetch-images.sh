@@ -1365,6 +1365,9 @@ MAPPING=(
   "us-overseas-basing-footprint=Military_base"
   "the-interrupted-break-in=Lock_picking"
   "dog-food-memo=Federal_Correctional_Institution,_Loretto"
+  "barry-pollock=Saipan"
+  "the-empire-on-the-ropes=Uncle_Sam"
+  "the-least-i-could-do=Restaurant"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
