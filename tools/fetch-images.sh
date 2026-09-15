@@ -1368,6 +1368,9 @@ MAPPING=(
   "barry-pollock=Saipan"
   "the-empire-on-the-ropes=Uncle_Sam"
   "the-least-i-could-do=Restaurant"
+  "hire-a-lawyer-first=Lawyer"
+  "prison-service-economy=Prison_commissary"
+  "the-empty-church-of-the-holy-sepulchre=Church_of_the_Holy_Sepulchre"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
