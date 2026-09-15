@@ -1195,6 +1195,7 @@ MAPPING=(
   "jihad-means-to-struggle=Jihad"
   "the-guard-booth-rounds=Prison_officer"
   "legal-mail=Envelope"
+  "the-afghan-womans-lesson=Taliban"
   "the-maxwell-justice-department-interview=Ghislaine_Maxwell"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
