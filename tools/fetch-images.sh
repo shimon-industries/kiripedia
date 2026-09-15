@@ -1323,6 +1323,8 @@ MAPPING=(
   "the-bridgeton-and-the-tanker-escorts=SS_Bridgeton"
   "the-tier-one-walk-up=Gust_Avrakotos"
   "cleaning-up-after-tora-bora=Battle_of_Tora_Bora"
+  "the-bowl-of-dates=Date_(fruit)"
+  "the-greenland-prediction=Greenland"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
