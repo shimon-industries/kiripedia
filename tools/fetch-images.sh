@@ -1329,6 +1329,8 @@ MAPPING=(
   "taking-the-ball-and-going-home=Butler,_Pennsylvania"
   "the-voice-vote-on-the-epstein-files=Chuck_Schumer"
   "the-thirty-year-old-nominee=Office_of_Special_Counsel"
+  "the-jerusalem-bluff=Jerusalem"
+  "cia-pentagon-war-divide=The_Pentagon"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
