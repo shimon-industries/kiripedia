@@ -1082,6 +1082,7 @@ MAPPING=(
   "wolf-blitzer-at-cia-headquarters=Wolf_Blitzer"
   "the-six-hour-queue-for-seats=State_of_the_Union"
   "venezuelan-heavy-crude-refining=PDVSA"
+  "the-ask-forgiveness-maxim=Central_Intelligence_Agency"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
   "slow-rolling-the-president=Central_Intelligence_Agency"
