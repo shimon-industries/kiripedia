@@ -1400,6 +1400,10 @@ MAPPING=(
   "kill-them-all=Counterterrorism_Center"
   "rule-six-endurance=Federal_prison"
   "the-second-plane=United_Airlines_Flight_175"
+  "the-laura-ingraham-exchange=Laura_Ingraham"
+  "the-1996-campaign-contribution-disclosure=Bob_Dole"
+  "jennifer-matthews=Camp_Chapman_attack"
+  "the-weight-of-the-government=United_States_Department_of_Justice"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
