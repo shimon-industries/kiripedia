@@ -1353,6 +1353,9 @@ MAPPING=(
   "the-pardoned-january-6th-defendants=January_6_United_States_Capitol_attack"
   "the-thrown-sandwich=District_of_Columbia_National_Guard"
   "muddling-through=Cold_War"
+  "the-armenian-podcasters=Armenian_diaspora"
+  "the-seventy-two-year-old-contractor=Central_Intelligence_Agency"
+  "us-incarceration-rate=Incarceration_in_the_United_States"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
