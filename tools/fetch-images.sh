@@ -1237,6 +1237,8 @@ MAPPING=(
   "frances-haugen=Frances_Haugen"
   "the-crete-blood-feud=Crete"
   "israels-rightward-shift=Aliyah"
+  "the-two-officers-who-changed=Counterterrorism_Center"
+  "heather-kiriakou=John_Kiriakou"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
