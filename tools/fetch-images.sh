@@ -1383,6 +1383,9 @@ MAPPING=(
   "the-french-in-the-streets=Yellow_vests_protests"
   "a-middle-east-reading-list=Sykes%E2%80%93Picot_Agreement"
   "the-coffee-with-the-jordanian-intern=Amman"
+  "dewey-clarridge=Iran%E2%80%93Contra_affair"
+  "find-a-grave=Cemetery"
+  "first-recruitment-in-athens=Athens"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
