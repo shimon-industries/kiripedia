@@ -1282,6 +1282,10 @@ MAPPING=(
   "corkscrew-landings-in-afghanistan=Bagram_Airfield"
   "snowden-did-not-defect=Sheremetyevo_International_Airport"
   "impeach-him-again=United_States_House_of_Representatives"
+  "the-guardian-smear-series=The_Guardian"
+  "the-search-for-a-country-to-take-gaza=South_Sudan"
+  "blueprint-for-free-speech=WikiLeaks"
+  "james-morris=People's_Protection_Units"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
