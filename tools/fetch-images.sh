@@ -1327,6 +1327,8 @@ MAPPING=(
   "the-greenland-prediction=Greenland"
   "the-indonesian-recruitment-question=Jakarta"
   "taking-the-ball-and-going-home=Butler,_Pennsylvania"
+  "the-voice-vote-on-the-epstein-files=Chuck_Schumer"
+  "the-thirty-year-old-nominee=Office_of_Special_Counsel"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
