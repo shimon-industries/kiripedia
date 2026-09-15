@@ -1397,6 +1397,9 @@ MAPPING=(
   "the-mayflower-madam-analogy=Mayflower_Hotel"
   "cia-crimes-reports=Central_Intelligence_Agency"
   "the-martyrdom-bonus=Al-Qaeda"
+  "kill-them-all=Counterterrorism_Center"
+  "rule-six-endurance=Federal_prison"
+  "the-second-plane=United_Airlines_Flight_175"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
