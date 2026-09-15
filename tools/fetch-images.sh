@@ -1304,6 +1304,10 @@ MAPPING=(
   "donnie-reynolds-jr=Communications_Management_Unit"
   "leonard-peltier=Leonard_Peltier"
   "fridays-at-the-agency=Central_Intelligence_Agency"
+  "the-royal-family-at-taif=Taif"
+  "taliban-spokesman-setup=Federal_Correctional_Institution,_Loretto"
+  "leonie-brinkema=Albert_V._Bryan_United_States_Courthouse"
+  "mexico-city-as-an-espionage-hub=Mexico_City"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
