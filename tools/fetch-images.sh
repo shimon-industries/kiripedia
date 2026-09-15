@@ -1310,6 +1310,8 @@ MAPPING=(
   "mexico-city-as-an-espionage-hub=Mexico_City"
   "the-underlying-sadness=Depression_(mood)"
   "jean-gately=Bay_of_Pigs_Invasion"
+  "russia-nato-membership=NATO"
+  "yemen-jazz-radio-plan=Sanaa"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
