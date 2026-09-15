@@ -1213,6 +1213,10 @@ MAPPING=(
   "more-money-on-security-in-athens-than-beirut=Athens"
   "the-189-undeclared-officers=Embassy_of_Israel,_Washington,_D.C."
   "the-twenty-thousand-dollar-tweet=Jeanine_Pirro"
+  "think-tank-financing=Washington,_D.C."
+  "the-oreilly-exclusivity-rule=Bill_O%27Reilly_(political_commentator)"
+  "sanaa-sewer-project=Sanaa"
+  "daniel-duggan=Extradition"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
