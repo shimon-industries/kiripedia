@@ -1230,6 +1230,8 @@ MAPPING=(
   "kiriakou-2026-viral-wave=Selfie"
   "the-hundred-and-fifty-foot-limousine=Mitch_McConnell"
   "greek-health-care-system=Healthcare_in_Greece"
+  "misleading-headlines=Newspaper"
+  "the-emir-of-bahrains-verdict=Hamad_bin_Isa_Al_Khalifa"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
