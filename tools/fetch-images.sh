@@ -77,7 +77,7 @@ MAPPING=(
   "executive-assistant-to-the-deputy-director-for-operations=Directorate_of_Operations_(CIA)"
   "cheney-airstrip-question=Dick_Cheney"
   "scott-horton=Scott_Horton_(radio_host)"
-  "greater-israel=Greater_Israel"
+  "greater-israel=Zionism"
   "2023-classified-documents-scandal=Biden_classified_documents_incident"
   "carrying-classified-out-of-a-scif=Sensitive_Compartmented_Information_Facility"
   "pillow-talk-disclosure-case=Central_Intelligence_Agency"
@@ -1404,6 +1404,9 @@ MAPPING=(
   "the-1996-campaign-contribution-disclosure=Bob_Dole"
   "jennifer-matthews=Camp_Chapman_attack"
   "the-weight-of-the-government=United_States_Department_of_Justice"
+  "greater-israel=Zionism"
+  "the-woman-escorted-from-the-white-house=White_House"
+  "the-clinton-era-asset-cull=Directorate_of_Operations_(CIA)"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
