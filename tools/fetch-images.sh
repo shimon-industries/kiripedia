@@ -1169,6 +1169,7 @@ MAPPING=(
   "the-bureau-of-prisons-polos=January_6_United_States_Capitol_attack"
   "the-white-house-pastry-chef=Donald_Trump"
   "gulf-daily-news=Manama"
+  "the-car-pickup-meeting=Directorate-General_for_External_Security"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
   "slow-rolling-the-president=Central_Intelligence_Agency"
