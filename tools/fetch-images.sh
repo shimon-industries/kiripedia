@@ -82,7 +82,7 @@ MAPPING=(
   "carrying-classified-out-of-a-scif=Sensitive_Compartmented_Information_Facility"
   "pillow-talk-disclosure-case=Central_Intelligence_Agency"
   "sensitive-but-unclassified=Controlled_Unclassified_Information"
-  "classified-email=Classified_information_in_the_United_States"
+  "classified-email=SIPRNet"
   "over-classification=Classified_information_in_the_United_States"
   "ukraine-call-whistleblower=Trump-Ukraine_scandal"
   "qasem-soleimani=Qasem_Soleimani"
@@ -1359,6 +1359,8 @@ MAPPING=(
   "passing-time-at-loretto=Federal_Correctional_Institution,_Loretto"
   "robert-david-steele=Podcast"
   "learning-to-dive-in-the-embassy-pool=Sharm_El_Sheikh"
+  "the-sahel-church-burnings=Boko_Haram"
+  "bulldozing-the-olive-orchards=Olive"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
