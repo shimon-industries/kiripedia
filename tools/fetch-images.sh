@@ -1358,6 +1358,7 @@ MAPPING=(
   "us-incarceration-rate=Incarceration_in_the_United_States"
   "passing-time-at-loretto=Federal_Correctional_Institution,_Loretto"
   "robert-david-steele=Podcast"
+  "learning-to-dive-in-the-embassy-pool=Sharm_El_Sheikh"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
