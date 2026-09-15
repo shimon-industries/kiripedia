@@ -1269,6 +1269,8 @@ MAPPING=(
   "prison-depression=Federal_prison"
   "how-the-cia-kills=Suppressor"
   "kiriakou-shortwave-listening=Shortwave_radio"
+  "saudi-television=Saudi_Broadcasting_Authority"
+  "the-hundred-city-tour=Belfast"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
