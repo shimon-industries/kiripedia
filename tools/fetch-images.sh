@@ -1221,6 +1221,9 @@ MAPPING=(
   "major-non-nato-ally-proposal-for-ukraine=Major_non-NATO_ally"
   "merry-go-round-prank=Prison_uniform"
   "the-hersh-publishing-collapse=Seymour_Hersh"
+  "cia-budget-concealment=William_Proxmire"
+  "glyburide-incident=Glyburide"
+  "the-porn-on-bin-ladens-computers=Osama_bin_Laden"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
