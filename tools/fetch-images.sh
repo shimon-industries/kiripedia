@@ -1244,6 +1244,10 @@ MAPPING=(
   "blackmail-of-closeted-politicians=United_States_Capitol"
   "the-gur-sbu-gun-battle=Kyiv"
   "suing-the-cia=United_States_district_court"
+  "rival-factions-in-libya=Libya"
+  "expanding-the-definition-of-terrorism=Terrorism"
+  "the-chinese-professor-on-linkedin=Ministry_of_State_Security_(China)"
+  "cia-operational-psychologists=Central_Intelligence_Agency"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
