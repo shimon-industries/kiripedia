@@ -1295,6 +1295,10 @@ MAPPING=(
   "the-nine-months-on-food-stamps=Supplemental_Nutrition_Assistance_Program"
   "the-libya-policy-reversal=Muammar_Gaddafi"
   "the-nine-eleven-truth-honorarium=World_Trade_Center_(1973–2001)"
+  "the-jay-jones-texts=Virginia"
+  "the-hannity-lockerbie-exchange=Sean_Hannity"
+  "the-atf-funding-rider=Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives"
+  "the-yale-intern-fascist=Yale_University"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
