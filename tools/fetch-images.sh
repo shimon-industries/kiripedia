@@ -1205,6 +1205,9 @@ MAPPING=(
   "the-co-who-wanted-the-cia=Loretto,_Pennsylvania"
   "the-east-mediterranean-gas-partnership=Eastern_Mediterranean"
   "greek-ambassador-dinner-encounter=Ron_Wyden"
+  "national-security-letters=National_security_letter"
+  "the-fifteen-dollar-maintenance-fee=Bank_of_America"
+  "pakistan-without-maps=Faisalabad"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
