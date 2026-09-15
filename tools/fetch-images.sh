@@ -1409,6 +1409,9 @@ MAPPING=(
   "the-clinton-era-asset-cull=Directorate_of_Operations_(CIA)"
   "the-twenty-five-in-pakistan=Jeanne_Shaheen"
   "the-airbridge=Larnaca_International_Airport"
+  "gavin-newsom=Gavin_Newsom"
+  "the-question-about-the-showers=Federal_prison"
+  "carrying-classified-out-of-a-scif=Classified_information"
   "the-greek-offer-for-the-bamiyan-buddhas=Buddhas_of_Bamyan"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
