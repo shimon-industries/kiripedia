@@ -1133,7 +1133,7 @@ MAPPING=(
   "the-move-to-fort-myer=Fort_Myer"
   "the-brett-stephens-column=Bret_Stephens"
   "the-macron-defamation-suit=Brigitte_Macron"
-  "the-mayflower-madam-analogy=Sydney_Biddle_Barrows"
+  "the-mayflower-madam-analogy=Mayflower_Hotel"
   "the-north-korea-seal-team-six-operation=SEAL_Team_Six"
   "the-plot-to-divert-maduros-plane=Nicol%C3%A1s_Maduro"
   "the-egyptian-berm=Rafah_border_crossing"
@@ -1394,6 +1394,9 @@ MAPPING=(
   "i-should-have-gone-to-film-school=Filmmaking"
   "the-new-jersey-drones=Unmanned_aerial_vehicle"
   "clock-tower-x=ChatGPT"
+  "the-mayflower-madam-analogy=Mayflower_Hotel"
+  "cia-crimes-reports=Central_Intelligence_Agency"
+  "the-martyrdom-bonus=Al-Qaeda"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
