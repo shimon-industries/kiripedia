@@ -1145,6 +1145,7 @@ MAPPING=(
   "abu-zubaydah-diary=Notebook"
   "the-dispersal-of-the-iranian-program=Natanz_nuclear_facility"
   "the-office-of-security-arrangement=Central_Intelligence_Agency"
+  "the-tax-rates-from-eisenhower-to-nixon=Dwight_D._Eisenhower"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
   "slow-rolling-the-president=Central_Intelligence_Agency"
