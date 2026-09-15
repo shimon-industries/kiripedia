@@ -1224,6 +1224,10 @@ MAPPING=(
   "cia-budget-concealment=William_Proxmire"
   "glyburide-incident=Glyburide"
   "the-porn-on-bin-ladens-computers=Osama_bin_Laden"
+  "washington-dc-home-rule=District_of_Columbia_Home_Rule_Act"
+  "eric-holder=Eric_Holder"
+  "rat-and-pedophile-table=Prison"
+  "kiriakou-2026-viral-wave=Selfie"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
