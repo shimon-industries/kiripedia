@@ -1243,6 +1243,7 @@ MAPPING=(
   "mike-scheuer=Michael_Scheuer"
   "blackmail-of-closeted-politicians=United_States_Capitol"
   "the-gur-sbu-gun-battle=Kyiv"
+  "suing-the-cia=United_States_district_court"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
