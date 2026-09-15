@@ -1286,6 +1286,9 @@ MAPPING=(
   "the-search-for-a-country-to-take-gaza=South_Sudan"
   "blueprint-for-free-speech=WikiLeaks"
   "james-morris=People's_Protection_Units"
+  "six-different-passports=United_States_passport"
+  "greta-zimmer-friedman=V-J_Day_in_Times_Square"
+  "the-french-human-sources=DGSE"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
