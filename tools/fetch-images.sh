@@ -1392,6 +1392,8 @@ MAPPING=(
   "bruno-jordan-operation=Amman"
   "the-intercept-source-exposures=The_Intercept"
   "i-should-have-gone-to-film-school=Filmmaking"
+  "the-new-jersey-drones=Unmanned_aerial_vehicle"
+  "clock-tower-x=ChatGPT"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
