@@ -1154,6 +1154,13 @@ MAPPING=(
   "mohammad-reza-pahlavi=Mohammad_Reza_Pahlavi"
   "savak=SAVAK"
   "kharg-island=Kharg_Island"
+  "the-disappearance-of-daniel-hale=Daniel_Hale"
+  "the-four-question-torture-exam=Liberty_University"
+  "the-oath-to-the-constitution=Central_Intelligence_Agency"
+  "ranking-bush-obama-trump-biden=Presidents_of_the_United_States"
+  "proposals-to-relocate-the-palestinians=Nakba"
+  "the-cyprus-fruit-relabel=Cyprus"
+  "the-parthenon-view-condo=Parthenon"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
