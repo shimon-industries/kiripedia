@@ -1293,6 +1293,8 @@ MAPPING=(
   "the-eritrea-prohibition=Eritrea"
   "clyde-hall=James_Traficant"
   "the-nine-months-on-food-stamps=Supplemental_Nutrition_Assistance_Program"
+  "the-libya-policy-reversal=Muammar_Gaddafi"
+  "the-nine-eleven-truth-honorarium=World_Trade_Center_(1973–2001)"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
