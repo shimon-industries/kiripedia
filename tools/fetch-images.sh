@@ -1257,6 +1257,8 @@ MAPPING=(
   "site-13=Abu_Zubaydah"
   "the-truth-social-announcement=Mar-a-Lago"
   "kiriakou-legal-counteroffensive=Harvard_Law_School"
+  "the-nineteen-hundred-dollar-premium=Affordable_Care_Act"
+  "the-resort-with-no-air-conditioning=Baja_California_Sur"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
