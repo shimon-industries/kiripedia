@@ -1361,6 +1361,8 @@ MAPPING=(
   "learning-to-dive-in-the-embassy-pool=Sharm_El_Sheikh"
   "the-sahel-church-burnings=Boko_Haram"
   "bulldozing-the-olive-orchards=Olive"
+  "daniel-pearl=Daniel_Pearl"
+  "us-overseas-basing-footprint=Military_base"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
