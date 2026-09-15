@@ -1271,6 +1271,8 @@ MAPPING=(
   "kiriakou-shortwave-listening=Shortwave_radio"
   "saudi-television=Saudi_Broadcasting_Authority"
   "the-hundred-city-tour=Belfast"
+  "no-ethics-training-at-the-cia=Directorate_of_Operations_(CIA)"
+  "steven-lalas=Greek_National_Intelligence_Service"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
