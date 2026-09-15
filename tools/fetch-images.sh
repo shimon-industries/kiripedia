@@ -1275,6 +1275,11 @@ MAPPING=(
   "steven-lalas=Greek_National_Intelligence_Service"
   "israeli-interception-of-us-secure-calls=Signals_intelligence"
   "hazara-judo-belts=Hazaras"
+  "saudi-arabia-and-radicalism=Wahhabism"
+  "russia-is-not-the-gravest-threat=Secret_Intelligence_Service"
+  "the-giuliani-epstein-emails=Rudy_Giuliani"
+  "no-bad-food-in-athens=Greek_cuisine"
+  "corkscrew-landings-in-afghanistan=Bagram_Airfield"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
