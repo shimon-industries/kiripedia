@@ -1347,6 +1347,7 @@ MAPPING=(
   "the-iranians-only-have-to-survive=Tehran"
   "presidential-call-memcons=Situation_Room"
   "the-caspian-drone-strike=Caspian_Sea"
+  "the-hundred-eighty-seven-israeli-officers=Mossad"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
