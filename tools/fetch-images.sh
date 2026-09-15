@@ -1371,6 +1371,8 @@ MAPPING=(
   "hire-a-lawyer-first=Lawyer"
   "prison-service-economy=Prison_commissary"
   "the-empty-church-of-the-holy-sepulchre=Church_of_the_Holy_Sepulchre"
+  "chief-of-station=Central_Intelligence_Agency"
+  "the-supporters-who-could-not-be-public=Central_Intelligence_Agency"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
