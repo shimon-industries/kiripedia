@@ -1348,6 +1348,8 @@ MAPPING=(
   "presidential-call-memcons=Situation_Room"
   "the-caspian-drone-strike=Caspian_Sea"
   "the-hundred-eighty-seven-israeli-officers=Mossad"
+  "directorate-of-intelligence=CIA_headquarters"
+  "suggested-responses=Fox_News"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
