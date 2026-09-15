@@ -1386,6 +1386,8 @@ MAPPING=(
   "dewey-clarridge=Iran%E2%80%93Contra_affair"
   "find-a-grave=Cemetery"
   "first-recruitment-in-athens=Athens"
+  "qat-in-yemen=Khat"
+  "mariel-boatlift-comparison=Mariel_boatlift"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
