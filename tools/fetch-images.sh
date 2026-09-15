@@ -1166,6 +1166,7 @@ MAPPING=(
   "the-tarantula-on-the-mini-fridge=Tarantula"
   "the-russian-soldier-in-manama=Manama"
   "eastern-state-penitentiary=Eastern_State_Penitentiary"
+  "the-managers-ranking=Joe_Rogan"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
