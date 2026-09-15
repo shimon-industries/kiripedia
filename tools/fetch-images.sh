@@ -1114,6 +1114,7 @@ MAPPING=(
   "chilling-effect-of-whistleblower-prosecutions=Espionage_Act_of_1917"
   "the-bolton-raid=John_Bolton"
   "the-october-8-gaza-cars=Gaza_envelope"
+  "forcing-iran-toward-a-bomb=Ali_Khamenei"
   "hr-mcmaster=H._R._McMaster"
   "declassifying-for-a-foreign-government=Classified_information_in_the_United_States"
   "slow-rolling-the-president=Central_Intelligence_Agency"
