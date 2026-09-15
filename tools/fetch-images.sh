@@ -1281,6 +1281,7 @@ MAPPING=(
   "no-bad-food-in-athens=Greek_cuisine"
   "corkscrew-landings-in-afghanistan=Bagram_Airfield"
   "snowden-did-not-defect=Sheremetyevo_International_Airport"
+  "impeach-him-again=United_States_House_of_Representatives"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
