@@ -1312,6 +1312,8 @@ MAPPING=(
   "jean-gately=Bay_of_Pigs_Invasion"
   "russia-nato-membership=NATO"
   "yemen-jazz-radio-plan=Sanaa"
+  "the-bureau-answers-to-no-one=Federal_Bureau_of_Prisons"
+  "the-afghans-in-diplomatic-limbo=Al_Udeid_Air_Base"
 )
 
 # Collect entries in a temp dir, assemble JSON at the end.
