@@ -1380,6 +1380,9 @@ MAPPING=(
   "the-san-francisco-bacterium-release=San_Francisco"
   "ed-martin=Federal_pardons_in_the_United_States"
   "tony-mendez=Tony_Mendez"
+  "the-french-in-the-streets=Yellow_vests_protests"
+  "a-middle-east-reading-list=Sykes%E2%80%93Picot_Agreement"
+  "the-coffee-with-the-jordanian-intern=Amman"
   "the-capitol-hill-cocaine-ring=United_States_Congress"
 )
 
