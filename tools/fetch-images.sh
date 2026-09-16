@@ -20,9 +20,6 @@ CREDITS="$DEST/credits.json"
 # reads as "this is the subject" — 46 biographies were carrying exactly that
 # and were unmapped on 2026-08-05 rather than given a better stand-in.
 MAPPING=(
-<<<<<<< HEAD
-  "trump-assassination-attempt-2024=Attempted_assassination_of_Donald_Trump_in_Butler,_Pennsylvania"
-=======
   "frank-snepp=Frank_Snepp"
   "kyriakos-mitsotakis=Kyriakos_Mitsotakis"
   "the-strike-on-ahmadinejads-house=Mahmoud_Ahmadinejad"
@@ -167,7 +164,6 @@ MAPPING=(
   "ndaa-section-219=National_Defense_Authorization_Act"
   "palestinians-in-the-gulf=Palestinian_diaspora"
   "israeli-espionage-in-the-united-states=Israel–United_States_relations"
->>>>>>> kiriakou-intake-churn
   "afia-sadiki=Aafia_Siddiqui"
   "agnes-von-kurowsky-grave-story=Agnes_von_Kurowsky"
   "alan-dershowitz=Alan_Dershowitz"
