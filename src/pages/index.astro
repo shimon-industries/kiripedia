@@ -232,11 +232,11 @@ const dykPoolHtml = allDyk.map((d) => mdLite(d.text));
 const monthNames = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 const todayDisplay = `${monthNames[Number(today.slice(5,7)) - 1]} ${Number(today.slice(8,10))}`;
 ---
-<WikiLayout title="Main Page">
+<WikiLayout title="Main Page" type="website">
   <div class="wiki-content">
     <div class="mainpage-welcome">
       <h1>Welcome to <strong>KiriPedia</strong>,</h1>
-      <p>the free encyclopedia of the world as seen through John Kiriakou's eyes — drawn entirely from his publicly available interviews, podcasts, and short-form video appearances.</p>
+      <p>the free encyclopedia of the world as told by <a href="/wiki/john-kiriakou">John Kiriakou</a>, the <a href="/wiki/cia">CIA</a> officer who exposed the agency's <a href="/wiki/cia-torture-program-whistleblowing">torture program</a> and went to prison for it. Everything here comes from his own recorded interviews, and every claim links to the moment he said it.</p>
       <p class="mainpage-stats">
         <strong>{count.toLocaleString()}</strong> articles ({peopleCount} <a href="/category/people">people</a>, {organizationsCount} <a href="/category/organizations">organizations</a>, {placesCount} <a href="/category/places">places</a>, {programsCount} <a href="/category/programs">programs</a>, {proceduresCount} <a href="/category/procedures">procedures</a>, {eventsCount} <a href="/category/events">events</a>), anchored to <strong>{citationsCount.toLocaleString()}</strong> cited timestamps across <strong>{sources.length}</strong> <a href="/sources">source recordings</a> totaling {totalSourceHours} hours of transcribed video and {totalWords.toLocaleString()} words written.
       </p>
@@ -279,7 +279,7 @@ const todayDisplay = `${monthNames[Number(today.slice(5,7)) - 1]} ${Number(today
         </a>
       </p>
       <p>
-        <strong><a id="featured-title-link" href={`/wiki/${initialSlug}`}>{initialArticle.data.title}</a></strong> — <span id="featured-summary">{initialArticle.data.summary}</span> <a id="featured-full-link" href={`/wiki/${initialSlug}`}>(Full article…)</a>
+        <strong><a id="featured-title-link" href={`/wiki/${initialSlug}`}>{initialArticle.data.title}</a>.</strong> <span id="featured-summary">{initialArticle.data.summary}</span> <a id="featured-full-link" href={`/wiki/${initialSlug}`}>(Full article…)</a>
       </p>
     </section>
 
@@ -333,12 +333,12 @@ const todayDisplay = `${monthNames[Number(today.slice(5,7)) - 1]} ${Number(today
       </section>
 
       <section class="mainpage-box otd">
-        <h2>On this day — {todayDisplay}</h2>
+        <h2>On this day, {todayDisplay}</h2>
         {todayEvents.length > 0 ? (
           <ul id="otd-list" data-visible={OTD_VISIBLE} data-today={todayMD}>
             {todayEvents.map((e) => (
               <li>
-                <strong>{e.year}</strong> — <span set:html={mdLite(e.description)} /> {' '}
+                <strong>{e.year}.</strong> <span set:html={mdLite(e.description)} /> {' '}
                 <a href={`/wiki/${e.slug}`} style="font-size:12px; color:var(--color-base--subtle)">[{e.title}]</a>
               </li>
             ))}
@@ -376,7 +376,7 @@ const todayDisplay = `${monthNames[Number(today.slice(5,7)) - 1]} ${Number(today
             var html = '';
             for (var m = 0; m < chosen.length; m++) {
               var e = chosen[m];
-              html += '<li><strong>' + e.year + '</strong> — ' + e.html +
+              html += '<li><strong>' + e.year + '.</strong> ' + e.html +
                       ' <a href="/wiki/' + e.slug + '" style="font-size:12px; color:var(--color-base--subtle)">[' + e.title + ']</a></li>';
             }
             listEl.innerHTML = html;

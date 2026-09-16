@@ -2,12 +2,13 @@
 import WikiLayout from '../layouts/WikiLayout.astro';
 ---
 <WikiLayout
+  robots="noindex, follow"
   title="Articles awaiting a picture"
-  description="Articles on KiriPedia that don't yet have a lead image — the watchlist the Image Fetcher works through, plus the ones it can't resolve from Wikipedia."
+  description="Articles on KiriPedia that don't yet have a lead image. The watchlist the Image Fetcher works through, plus the ones it can't resolve from Wikipedia."
 >
   <div class="wiki-content">
     <h1 class="firstHeading">Articles awaiting a picture</h1>
-    <p class="subtitle">The image backlog — articles the wiki still needs to put a face on</p>
+    <p class="subtitle">The image backlog: articles the wiki still needs to put a face on</p>
 
     <article class="wiki-body">
       <div class="hatnote" style="padding-left:0">
@@ -15,7 +16,7 @@ import WikiLayout from '../layouts/WikiLayout.astro';
       </div>
 
       <p>
-        The fetcher is conservative on purpose: it accepts only exact-title Wikipedia matches (not search results), because a search for <em>"Abu Nidal disruption"</em> will happily return <em>"1982 Lebanon War"</em> as the loose closest match — and a wrong picture is worse than no picture. The watchlist refreshes every fifteen seconds.
+        The fetcher is conservative on purpose: it accepts only exact-title Wikipedia matches (not search results), because a search for <em>"Abu Nidal disruption"</em> will happily return <em>"1982 Lebanon War"</em> as the loose closest match. A wrong picture is worse than no picture. The watchlist refreshes every fifteen seconds.
       </p>
 
       <div class="ni-toolbar">
@@ -27,9 +28,9 @@ import WikiLayout from '../layouts/WikiLayout.astro';
           <button type="button" class="ni-filter" data-filter="queued">Queued</button>
         </div>
         <div class="ni-meta">
-          <span id="ni-counts">—</span>
+          <span id="ni-counts"></span>
           <span class="ni-sep">·</span>
-          <span id="ni-updated">—</span>
+          <span id="ni-updated"></span>
         </div>
       </div>
 
@@ -38,7 +39,7 @@ import WikiLayout from '../layouts/WikiLayout.astro';
       </ul>
 
       <p class="ni-footer-note">
-        The <strong>"No Wikipedia page"</strong> entries are articles whose subject isn't in Wikipedia — the kind of granular detail that's the whole point of a Kiriakou-only encyclopedia. These will likely never get a photo automatically. <strong>"No lead image"</strong> means Wikipedia has a page but it has no infobox photo. <strong>"Queued"</strong> are entries the fetcher hasn't tried yet this cycle.
+        The <strong>"No Wikipedia page"</strong> entries are articles whose subject isn't in Wikipedia: the kind of granular detail that's the whole point of a Kiriakou-only encyclopedia. These will likely never get a photo automatically. <strong>"No lead image"</strong> means Wikipedia has a page but it has no infobox photo. <strong>"Queued"</strong> are entries the fetcher hasn't tried yet this cycle.
       </p>
     </article>
   </div>
@@ -85,7 +86,7 @@ import WikiLayout from '../layouts/WikiLayout.astro';
       function render() {
         const filtered = activeFilter === 'all' ? rows : rows.filter(r => reasonClass(r.reason) === activeFilter);
         if (!filtered.length) {
-          listEl.innerHTML = '<li class="ni-empty">Nothing in this slice — the backlog is clear.</li>';
+          listEl.innerHTML = '<li class="ni-empty">Nothing in this slice. The backlog is clear.</li>';
           return;
         }
         let html = '';
