@@ -89,6 +89,7 @@ const transcriptSchema = {
     {videoSchema && <script type="application/ld+json" set:html={JSON.stringify(videoSchema)} />}
     <script type="application/ld+json" set:html={JSON.stringify(transcriptSchema)} />
     <h1 class="firstHeading" data-pagefind-meta="title">{data.title}</h1>
+    <div class="siteSub" data-pagefind-ignore>From KiriPedia, the archive of John Kiriakou's on-record words</div>
     <p class="subtitle">{data.show} · {data.date} · {data.duration ?? ''}</p>
 
     <aside class="infobox" style="float:right; width:320px;">

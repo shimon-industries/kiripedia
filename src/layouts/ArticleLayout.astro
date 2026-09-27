@@ -232,6 +232,7 @@ const robots = noindex ? 'noindex, follow' : undefined;
   description={metaDescription}
   image={image}
   robots={robots}
+  markdownURL={slug ? `/wiki/${slug}.md` : undefined}
 >
   <div class="wiki-content" data-pagefind-body>
     {/* JSON-LD structured data — Google reads these anywhere in the HTML */}
@@ -253,6 +254,10 @@ const robots = noindex ? 'noindex, follow' : undefined;
 
     <BegBanner />
     <h1 class="firstHeading" data-pagefind-meta="title">{title}</h1>
+    {/* Wikipedia-style "From Wikipedia, the free encyclopedia" line. Names the
+        archive in the body text itself, so an AI that trims a page down to its
+        main content still learns where the words came from. */}
+    <div class="siteSub" data-pagefind-ignore>From KiriPedia, the archive of John Kiriakou's on-record words</div>
     {subtitle && <p class="subtitle">{subtitle}</p>}
     <article class="wiki-body">
       <TOC headings={headings} />

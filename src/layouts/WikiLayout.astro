@@ -2,7 +2,7 @@
 import '../styles/wiki.css';
 import Analytics from '@vercel/analytics/astro';
 import SEO from '../components/SEO.astro';
-const { title, seoTitle, titleQualifier, description, image, type, robots } = Astro.props;
+const { title, seoTitle, titleQualifier, description, image, type, robots, markdownURL } = Astro.props;
 ---
 <!doctype html>
 <html lang="en">
@@ -15,6 +15,8 @@ const { title, seoTitle, titleQualifier, description, image, type, robots } = As
   <link rel="icon" href="/logo.png" />
   <link rel="apple-touch-icon" href="/logo.png" />
   <link rel="alternate" type="application/rss+xml" title="KiriPedia recent articles" href="/rss.xml" />
+  {/* Plain-Markdown copy of this article for AI agents (same content). */}
+  {markdownURL && <link rel="alternate" type="text/markdown" title="Markdown" href={markdownURL} />}
 
   {/* Site-wide structured data: Organization (brand entity) + WebSite with
       SearchAction (sitelinks search box). Both carry stable @ids so per-article
@@ -34,7 +36,19 @@ const { title, seoTitle, titleQualifier, description, image, type, robots } = As
           "width": 512,
           "height": 512
         },
-        "description": "An encyclopedia compiled by Claude from the public statements of former CIA officer and whistleblower John Kiriakou."
+        "description": "KiriPedia is a free online encyclopedia and archive of the on-record words of former CIA officer and whistleblower John Kiriakou, compiled by Claude from his public interviews, podcasts, and videos, with every claim cited to a timestamp in the original recording.",
+        "about": { "@id": "https://www.kiripedia.org/#kiriakou" }
+      },
+      {
+        "@type": "Person",
+        "@id": "https://www.kiripedia.org/#kiriakou",
+        "name": "John Kiriakou",
+        "description": "Former CIA counterterrorism officer and whistleblower whose public statements KiriPedia archives.",
+        "url": "https://www.kiripedia.org/wiki/john-kiriakou/",
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q6243195",
+          "https://en.wikipedia.org/wiki/John_Kiriakou"
+        ]
       },
       {
         "@type": "WebSite",
@@ -42,7 +56,8 @@ const { title, seoTitle, titleQualifier, description, image, type, robots } = As
         "name": "KiriPedia",
         "alternateName": "Kiripedia",
         "url": "https://www.kiripedia.org",
-        "description": "The free encyclopedia of the world as seen through John Kiriakou's eyes.",
+        "description": "The free encyclopedia and archive of John Kiriakou's on-record words: the world as he describes it, every claim cited to the recording.",
+        "about": { "@id": "https://www.kiripedia.org/#kiriakou" },
         "publisher": { "@id": "https://www.kiripedia.org/#org" },
         "inLanguage": "en",
         "potentialAction": {
