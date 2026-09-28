@@ -234,6 +234,11 @@ a.new, a.redlink { color: var(--color-link-red); }
   color: var(--color-base--subtle);
   margin: 0 0 8px;
 }
+.articleMeta {
+  font-size: 12px;
+  color: var(--color-base--subtle);
+  margin: -4px 0 10px;
+}
 .subtitle {
   font-size: 13px;
   color: var(--color-base--subtle);

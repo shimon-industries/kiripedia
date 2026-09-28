@@ -53,8 +53,10 @@ const CATEGORY_TO_TYPE = {
   Organizations: 'Organization',
   Agencies: 'GovernmentOrganization',
   Places: 'Place',
-  Events: 'Event',
-  Operations: 'Event',
+  // Events/Operations are deliberately not typed as schema.org Event: Google
+  // validates Event as an upcoming-event rich result and flagged every one as
+  // invalid (no startDate/location for historical events). They fall through
+  // to Thing below when they carry Wikipedia/Wikidata grounding.
 };
 // If a category isn't typed but the article carries Wikipedia/Wikidata
 // grounding, still emit a generic Thing entity so the sameAs links surface —
@@ -112,6 +114,12 @@ if (entityType && articleURL) {
 // claim back to this page. The per-page store is populated by the wiki route
 // before this layout renders (same source References uses).
 const rawCites = list(Astro.url.pathname);
+// Visible provenance line: how many distinct recordings the article cites and
+// when it last changed. Both are trust signals for readers and search engines.
+const sourceCount = new Set(rawCites.map((c) => c.s)).size;
+const modDateLabel = /^\d{4}-\d{2}-\d{2}$/.test(String(modDate))
+  ? new Date(`${modDate}T12:00:00Z`).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })
+  : null;
 const citation = (await Promise.all(rawCites.map(async (c) => {
   const src = await getEntry('sources', c.s);
   const d = src?.data ?? {};
@@ -258,6 +266,13 @@ const robots = noindex ? 'noindex, follow' : undefined;
         archive in the body text itself, so an AI that trims a page down to its
         main content still learns where the words came from. */}
     <div class="siteSub" data-pagefind-ignore>From KiriPedia, the archive of John Kiriakou's on-record words</div>
+    {(sourceCount > 0 || modDateLabel) && (
+      <div class="articleMeta" data-pagefind-ignore>
+        {sourceCount > 0 && <span>Based on {sourceCount} recorded {sourceCount === 1 ? 'interview' : 'interviews'}</span>}
+        {sourceCount > 0 && modDateLabel && <span> · </span>}
+        {modDateLabel && <span>Last updated <time datetime={modDate}>{modDateLabel}</time></span>}
+      </div>
+    )}
     {subtitle && <p class="subtitle">{subtitle}</p>}
     <article class="wiki-body">
       <TOC headings={headings} />

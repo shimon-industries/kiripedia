@@ -1385,7 +1385,6 @@ MAPPING=(
   "the-crete-blood-feud=Crete"
   "israels-rightward-shift=Aliyah"
   "the-two-officers-who-changed=Counterterrorism_Center"
-  "heather-kiriakou=John_Kiriakou"
   "iraq-the-training-account=Iraq"
   "mike-scheuer=Michael_Scheuer"
   "blackmail-of-closeted-politicians=United_States_Capitol"

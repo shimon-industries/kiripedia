@@ -76,6 +76,9 @@ export default defineConfig({
     '/wiki/wikileaks-post-2010': '/wiki/wikileaks-as-a-system/',
     // Fold: duplicate spelling of Anwar al-Awlaki.
     '/wiki/anoir-alaki': '/wiki/anwar-al-awlaki/',
+    // 2026-09-27 ranking pass: health pages merged into one (they competed for the same queries).
+    '/wiki/kiriakou-type-2-diabetes': '/wiki/kiriakou-gastrectomy/',
+    '/wiki/kiriakou-post-gastrectomy-complications': '/wiki/kiriakou-gastrectomy/',
   },
   integrations: [
     mdx(),

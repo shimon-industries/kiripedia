@@ -486,6 +486,26 @@
       "source": "/wiki/anoir-alaki/",
       "destination": "/wiki/anwar-al-awlaki/",
       "permanent": true
+    },
+    {
+      "source": "/wiki/kiriakou-type-2-diabetes",
+      "destination": "/wiki/kiriakou-gastrectomy/",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/kiriakou-type-2-diabetes/",
+      "destination": "/wiki/kiriakou-gastrectomy/",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/kiriakou-post-gastrectomy-complications",
+      "destination": "/wiki/kiriakou-gastrectomy/",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/kiriakou-post-gastrectomy-complications/",
+      "destination": "/wiki/kiriakou-gastrectomy/",
+      "permanent": true
     }
   ],
   "headers": [

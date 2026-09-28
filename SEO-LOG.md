@@ -2567,3 +2567,69 @@ count grows instead of shrinking, something has started emitting unslashed URLs 
   the single highest-value unlock available.
 - **Bing Webmaster Tools** signup (carried from 2026-07-09).
 - **A Wikidata item for KiriPedia** (carried from 2026-07-09).
+
+## 2026-09-27 — ranking pass (manual, with Pedro)
+
+### The numbers (Search Console, 28 days to 2026-09-25)
+
+- **821 clicks · 14K impressions · 5.9% CTR · avg position 10.2** — up from 17 clicks at the
+  08-17 sweep. Vercel: 3,969 visitors / 8,740 views in 30 days (Singapore is 35% of visitors,
+  probably bots; not blocked, needs a look).
+- `jean-gately` carries 463 of the 821 clicks at position 2.2. **Deliberately untouched**
+  (title, slug, snippet) apart from one unsupported lede clause — too valuable to risk.
+- `john kiriakou` (the name itself): 14 impressions, position 65, and Google shows
+  **/category/people/** for it, not the article (11 of 14 impressions). The article is indexed
+  (URL Inspection: "URL is on Google"). This is an authority ceiling, not an on-page fault;
+  backlinks remain the lever.
+
+### Changed
+
+- **Health cannibalisation fixed.** `kiriakou-type-2-diabetes` and `kiriakou-gastrectomy` were
+  both ranking 7–10 for the same queries ("does john kiriakou have a stomach" 196 + 126 imp,
+  0 clicks on either). Merged `kiriakou-type-2-diabetes` and
+  `kiriakou-post-gastrectomy-complications` into `kiriakou-gastrectomy` (Type 2 diabetes → The
+  surgery → Complications). All 38 citations carried over; every cited paragraph verbatim.
+  Both old slugs 301 to the merged page (astro.config + vercel.json); 6 inbound links repointed
+  to `#type-2-diabetes` / `#complications`. New seoTitle answers the question in the query.
+- **`heather-kiriakou` corrected.** (1) Infobox photo was of **Thomas Drake**, per its own
+  caption — removed, file and credits/fetch-images entries deleted so wire-images cannot
+  restore it. (2) Lede called her his current wife; she is his ex-wife ("my now ex-wife", 2022).
+  Title/deck/summary now say ex-wife (also matches "john kiriakou ex wife"). (3) New cited
+  Marriage section. 13 in-context "his wife" links to her page added in articles where the
+  context is unambiguously her (2007+ events); Joanne-era and ambiguous mentions left alone.
+- **Hub (`john-kiriakou`) fact fixes found while sourcing the above:** "met while stationed in
+  Pakistan" was wrong (source: already dating her when he went); "the day his divorce was
+  finalised" was an inference the source does not make — removed; a 9:30 citation that did
+  not support its sentence replaced with 11:30/12:00. Infobox: children corrected (was "at least
+  two sons"; body says four sons, one daughter), spouses, citizenship, ancestry, health added,
+  all linked to cited articles. Deck now carries birth year and hometown (age/hometown/dob
+  queries land here at 9–36).
+- **`too-much-work-to-be-mrs-kiriakou`**: two uncited paragraphs sourced (one sentence
+  overstated its source and was rewritten to match it); duplicate "See also" removed.
+- **Site-wide `''` bug:** 647 doubled apostrophes in article bodies across 92 files (YAML
+  escaping leaked into MDX) rendered as "ministry”s". Fixed; diff verified to change nothing
+  but those characters.
+- **3 stray `<Cite>` tags in frontmatter** (piers-morgan summary, two DYK lines) — fixed in the
+  previous commit.
+- **Event schema:** 20 invalid Event items in GSC (historical events lack startDate/location).
+  Events/Operations categories no longer typed as schema.org Event.
+- **Article meta line:** "Based on N recorded interviews · Last updated <date>" under every
+  article title.
+- `hummus` seoTitle aimed at "cia hummus technique"; `gust-avrakotos` infobox gains nickname
+  "Dr. Dirty" (7 imp for "dr dirty cia").
+
+### Left alone, with reasons
+
+- **Splitting the 34k-word hub**: considered and rejected — the page is indexed, 850 KB HTML
+  loads fine, and moving ~30k cited words is high-risk for little measured gain.
+- **Transcript pages stay `noindex`** (553 "Excluded by noindex" in GSC is mostly these; the
+  08-12 decision stands).
+- **Dead wikilinks:** 119, all pre-existing.
+- **Existing citation timestamp drift** (e.g. abu-zubaydah cites to :30/:00 marks that are not
+  paragraph starts) — noticed, not in scope.
+
+### Blocked — needs Pedro
+
+- Backlinks (Reddit, show notes, Kiriakou sharing the site) — still the ceiling for his name.
+- Wikidata item for KiriPedia (draft ready).
+- Singapore traffic: confirm bots before any firewall rule.
