@@ -102,8 +102,10 @@ const BTC_HALF_B = BTC.slice(17);
 .beg-close:hover { text-decoration: underline; }
 .beg-lede {
   margin: 0 0 18px 0;
-  /* Always one line on desktop: size the text to the banner's own width. */
-  font-size: min(22px, 2.2cqi);
+  /* Always one line on desktop: size the text to the banner's own width,
+     leaving room on the right for the absolutely-positioned "i" badge. */
+  font-size: min(22px, 1.95cqi);
+  padding-right: 32px;
   font-weight: 600;
   line-height: 1.4;
   white-space: nowrap;
